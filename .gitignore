@@ -1,0 +1,9 @@
+# Obsidian session state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian local caches and transient data
+.obsidian/cache/
+
+# Deleted files moved to Obsidian's local trash
+.trash/
