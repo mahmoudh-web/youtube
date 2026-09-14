@@ -1,0 +1,55 @@
+---
+title: The Pastry War Wasn’t About Pastries — Source Index
+topic: First French intervention in Mexico, 1838–1839; French claims, blockade and Veracruz
+status: Research pack; human verification required
+accessed: 2026-09-14
+---
+
+## Research question
+
+What is actually documented behind the “Pastry War” label? The working answer is that the French action followed a bundle of indemnity, diplomatic, commercial and sovereignty disputes. A pastry-shop grievance appears in later accounts and official Mexican summaries, but its original wording, amount and causal weight remain unresolved.
+
+## Conflict and episode promise
+
+France used naval pressure against Mexico after Mexican governments rejected or delayed French demands. The 9 March 1839 settlement covered claims by French nationals, while also arranging peace, arbitration of some wartime questions and interim commercial privileges. The memorable pastry story may explain the label; it does not by itself explain the blockade, the attack on San Juan de Ulúa or the final convention.
+
+## Source-quality key
+
+- **A — contemporary primary record:** treaty, convention, government pamphlet, diplomatic note or official record produced during the dispute.
+- **B — official/archival record:** government history, archive catalogue or institutional record that describes or points to primary material.
+- **C — scholarly secondary history:** peer-reviewed research or specialist synthesis; useful for source criticism and context, not a substitute for the underlying record.
+- **D — later popular/retrospective account:** useful for reception and lead-finding only.
+
+## Indexed sources
+
+| ID | Source and URL | Date / type | Quality | Exact passage or locator | Use and limitation |
+|---|---|---|---|---|---|
+| S1 | [Archivo General de la Nación, “AGN recuerda la firma del Tratado de paz… Guerra de los pasteles”](https://www.gob.mx/agn/articulos/agnrecuerda-la-firma-del-tratado-de-paz-de-la-conocida-guerra-de-los-pasteles?idiom=es) | 9 Mar 2018; official archive article | B | Opening paragraphs: identifies the 9 March 1839 peace treaty; says French demands included indemnity for looting and destruction suffered by French subjects, including a French resident of Tacubaya whose pastry shop was looted by military forces during a disturbance. States that AGN holds relevant First Intervention files. | Strong institutional confirmation that the pastry grievance is part of the official Mexican archival narrative and that related files exist. The page is a modern summary, not the original claim or a complete index. |
+| S2 | [Treaty and perpetual peace/friendship convention, Veracruz, 9 Mar 1839](https://www.memoriapoliticademexico.org/Textos/2ImpDictadura/1839TPF.html) | 1839 legal text reproduced from Dublán and Lozano, *Legislación mexicana*, vol. III | A / transcription | Convention Art. I: Mexico would pay 600,000 pesos fuertes for French claims concerning losses suffered by nationals before 26 Nov 1838, in three 200,000-peso drafts against Veracruz customs. Treaty Arts. II–IV: arbitration for captured Mexican ships and certain post-26-November losses; Ulúa to be returned after ratification. | Core settlement text. This reproduction is not the physical 1839 original; verify spelling, ratification and implementation against an official scan before quotation. |
+| S3 | [Secretaría de Relaciones Exteriores, *México y Europa: dificultades internas y externas, 1836–1848*, vol. 5 PDF](https://portales.sre.gob.mx/acervo/images/libros/RI/vol_5_europa.pdf) | Modern official diplomatic history; pp. 65–72, especially PDF lines 1511–1624 | B/C | pp. 67–69: centralist Mexico rejected an earlier convention; Deffaudis assembled legation claims and demanded retail-trade access and exemption from forced loans. Footnote 8 says Remontel’s claim was 800 pesos. Footnote 10 lists the 600,000-peso aggregate, forced-loan exemption, retail trade, and removal of officials. pp. 69–71: blockade from 16 Apr 1838, Baudin’s arrival, 200,000 pesos for expedition expenses, the Ulúa attack, British mediation and the 600,000-peso settlement. | Best located synthesis of the Mexican diplomatic position and the aggregate demands. It cites underlying SRE/AHGE files and scholarship but is not itself a 1838 diplomatic note. |
+| S4 | [Library of Congress, Mexican government pamphlet containing Deffaudis’s ultimatum and correspondence](https://www.loc.gov/item/ca06002644/) | Published Mexico City, 1838; digitised government pamphlet | A | Item metadata: *Suplemento al Diario del gobierno de la República Mexicana*, 31 Mar 1838; contains the French plenipotentiary’s ultimatum, Mexican–French correspondence and communication to the French chargé d’affaires; 390 digitised images. | Essential primary-source retrieval lead for the Mexican reply and French demands. The scan must be read image by image for the exact claim schedule, deadline, language and official rebuttal; the catalogue page alone is not evidence for every detail. |
+| S5 | [El Colegio de México, *Correspondencia diplomática franco-mexicana, 1808–1839*](https://libros.colmex.mx/tienda/correspondencia-diplomatica-franco-mexicana-1808-1839/) and [FranceArchives, French Legation in Mexico](https://francearchives.gouv.fr/fr/facomponent/8c42e2f4bf6b622e31a4e8e8e4fc7c01c943f84c) | 1957 documentary selection; French archival catalogue | B | Colmex states that the book’s documents belong to the French Ministry of Foreign Affairs, Political Correspondence: Mexico series, volumes covering 1808–1839. FranceArchives identifies the French legation in Mexico and fonds including Adrien Cochelet papers. | Retrieval route to the French side. The catalogue records custody and scope; it does not replace inspection of Deffaudis/Baudin correspondence. |
+| S6 | [Eliud Santiago Aparicio, “La guerra de los pasteles. Análisis del concepto y de las mentalidades mexicanas,” SciELO](https://www.scielo.org.mx/scielo.php?lng=es&nrm=iso&pid=S0185-39292025000100235&script=sci_arttext_plus&tlng=es) | *Relaciones. Estudios de historia y sociedad* 46(181), 2025, pp. 235–261 | C | Abstract: argues that the pastry claim was an invention of the Mexican press used to criticise the French blockade, while retaining a historical background. Article discussion: later versions place the incident near Mexico City; a cited account gives an 800-peso claim; press and memory later magnified it. | Important source-critical challenge to the standard story. The conclusion is an authorial interpretation and must be compared with the 1838 pamphlet, French files and contemporary newspapers. |
+| S7 | [Gerardo Manuel Medina Reyes, “La expulsión de los franceses de México (1838–1839),” SciELO](https://www.scielo.org.mx/scielo.php?pid=S2663-371X2024000100075&script=sci_arttext) | *Revista de historia de América* 167, 2024, pp. 75–109 | C | Article p. 77, note 5 (also indexed in the PDF search): Fossey’s later account attributes an 800-peso claim to Remontel mediated by Baron Gros, while the press raised it to 30,000 pesos; the article examines French expulsions and later claims. | Useful corroboration for the 800-versus-30,000 discrepancy and for separating the 1838–39 expulsion law from later claims. It is not the original Fossey text or the claim file. |
+| S8 | [Alberto I. Glender Rivas, “La mediación británica en la primera guerra entre Francia y México, 1838–1839,” INAH](https://revistas.inah.gob.mx/index.php/historias/article/view/14736) | *Historias* 22, 1989, pp. 91–108 | C | Reference list identifies De la Peña y Reyes’s 1927 SRE compilation, pp. 41–61 for the ultimatum and Mexican reply, plus British Foreign Office and Admiralty files for 1838–39. | Provides a specialist route into the British mediation and primary diplomatic corpus. Consult the PDF and its cited archival documents before relying on any single narrative of mediation. |
+| S9 | [Jacques Penot, “L’expansion commerciale française au Mexique et les causes du conflit franco-mexicain de 1838–1839,” Persée](https://www.persee.fr/doc/hispa_0007-4640_1973_num_75_1_4100) | *Bulletin hispanique* 75(1–2), 1973, pp. 169–201 | C | Article pp. 169–170: records the 600,000-peso demand, notes the pastry-shop story, then lists French diplomatic and naval reports of killings, looting, arbitrary arrests, cargo seizures, navigation restrictions, sequestration, shop closures and commercial restrictions. | Strong comparative control against the pastry-only frame. The article is scholarly secondary analysis; its cited French reports must be checked for exact wording and legal status. |
+
+All URLs were accessed on **2026-09-14**. Sources S2 and S4 are the primary-record spine; S3, S6, S7 and S9 provide the main source criticism and context. S5 and S8 identify French, Mexican and British archival retrieval work still outstanding.
+
+## Primary-source retrieval queue
+
+1. Read the complete Library of Congress scan S4. Transcribe the ultimatum’s demand list, deadline, amount, treatment of forced loans and Mexican response with image/page locators.
+2. Retrieve Deffaudis’s 21 March 1838 ultimatum and the 27 May 1837 memorandum in the SRE/Archivo Histórico Diplomático editions cited by S3 and S8; compare French and Mexican versions.
+3. Locate the original Remontel file, Baron Gros correspondence, and the earliest Mexican and French press accounts. Resolve whether the record says fonda, restaurant or pastelería; looting, unpaid consumption or both; and 800, 30,000, 60,000 or another amount.
+4. Inspect the French Ministry of Foreign Affairs political correspondence for Mexico, 1837–39, using S5. Record which claims were presented, by whom, and whether they were acknowledged, rejected, arbitrated or merely bundled into the ultimatum.
+5. Read the 9 March 1839 treaty and convention against an official scan. Track the three customs drafts, the most-favoured-nation clause, arbitration provisions and the return of San Juan de Ulúa.
+6. Retrieve British Foreign Office/Admiralty records cited by S8 to document the blockade, merchant pressure and mediation without importing later national narratives.
+7. Verify dates and casualty/force figures for the San Juan de Ulúa assault, Veracruz fighting, Santa Anna’s injury and the expulsion law from contemporary reports; do not add them to the claim ledger as fixed facts until checked.
+
+## Documentary visual-source opportunities — research leads only
+
+- S4: 1838 Mexican government pamphlet, ultimatum and correspondence; public-domain/library scan, pending legibility and provenance review.
+- S2: 1839 treaty/convention pages and signatures; inspect official scan and rights status before any production use.
+- S1 and S5: AGN/French-legation archival leads; no asset is approved until repository access and reproduction rights are confirmed.
+- S3: SRE diplomatic-history pages and cited archival references; research reference only, not an automatically cleared image.
+- Veracruz, San Juan de Ulúa and blockade imagery should be sourced separately from museum/archive catalogues; no visual material is approved by this pack.
