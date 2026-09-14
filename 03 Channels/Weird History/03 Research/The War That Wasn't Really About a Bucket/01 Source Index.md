@@ -1,0 +1,49 @@
+---
+title: The War That Wasn't Really About a Bucket — Source Index
+topic: Bologna, Modena, and the Battle of Zappolino (1325)
+status: Research pack; human verification required
+accessed: 2026-09-13
+---
+
+## Research question
+
+What can be established about the conflict between Bologna and Modena that culminated at Zappolino in 1325, and did a stolen wooden bucket cause the war, serve as a trophy, or become a later literary label?
+
+## Conflict and episode promise
+
+The documented event is a military and political conflict between neighbouring Italian communes. The research problem is the mismatch between that evidence and the memorable later label *La secchia rapita* (“the stolen bucket”). This pack tests the label rather than assuming it explains the war.
+
+## Source-quality key
+
+- **A — direct primary/critical:** an archival record or a critical edition of a medieval source; still subject to authorial and transmission bias.
+- **B — later primary witness:** a later chronicle or literary work that records memory of the event, not an eyewitness transcript.
+- **C — scholarly secondary:** academic synthesis, source criticism, or bibliographic control.
+- **D — institutional/reception:** official heritage or civic history; useful for current custody and memory, not sufficient alone for disputed medieval facts.
+- **E — orientation only:** non-specialist retelling; not used as sole support for material claims.
+
+## Indexed sources
+
+| ID | Source and URL | Date / type | Quality | Traceable passage or locator | Use and limitation |
+|---|---|---|---|---|---|
+| S1 | [Cronaca di Modena (1106–1562), ed. Rolando Bussi, Fondazione Cassa di Risparmio di Modena](https://www.fondazionedimodena.it/wp-content/uploads/2021/06/cronachesancesario.pdf) | Modern edition of a later Modena chronicle tradition | B | PDF pp. 187–188; text at lines 5413–5433 in the web text: under 1325, the Bolognesi are defeated and put to flight near Zappolino; the note records a siege context with 1,000 cavalry and 1,400 infantry, then says Modenese forces under Passerino and Azzone pursued them to Bologna’s walls, with a red *pallium* and silver arrows. | Strong evidence for the Modena-side remembered core and pursuit. The surviving witness is not a 1325 field report; the edition explains that chronicle copies and transmissions vary, and the source does not mention a bucket in this entry. |
+| S2 | [Matteo Griffoni, *Memoriale historicum de rebus Bononiensium*, RIS² XVIII/2 catalogue](https://www.treccani.it/enciclopedia/matteo-griffoni_%28Dizionario-Biografico%29/) and [digitised RIS² record](https://archive.org/details/rerumitalicarums182murauoft) | Bologna notary’s retrospective chronicle, compiled c. 1411; 1902 critical edition | B/C | Treccani states that Griffoni compiled the *Memoriale* around 1411 from his Bologna manuscript. The Zappolino section is cited in the edition as **“Conflictus Zapolini,” s.v. 1325**. | Essential Bolognese-side witness and route to the critical text. It is roughly 86 years after the battle and must not be treated as contemporary testimony. Verify the exact Latin wording and edition page before quoting. |
+| S3 | [Modena Heritage: Ghirlandina, Hall of the Stolen Bucket](https://patrimoniomondiale.modena.it/en/visit/monumental-complex/ghirlandina-civic-tower/interiors/abducted-secchia-hall/) | Current official heritage account | D | Lines 90–99: the page says the original is now in the Town Hall, a copy is in the Ghirlandina, and during the 15 November 1325 battle a Modenese squadron reached Bologna and took a common wooden bucket from a public well; it says the bucket was carried to Modena. | Useful evidence for modern institutional custody and the living Modenese memory. The page presents the tradition as heritage history and does not identify a medieval manuscript proving the exact theft scene or causation. |
+| S4 | [Metropolitan City of Bologna: Zappolino](https://appenninobolognese.cittametropolitana.bo.it/it/luoghi/borghi/zappolino) | Current regional institutional history | D | Line 12 distinguishes the fictional bucket theft as the war’s trigger from the historical battle as one of repeated territorial and political clashes between Bologna and Modena. | Clear official counterweight to the “bucket caused the war” formulation. It is a modern summary, not a primary medieval record. |
+| S5 | [M. Carbonara, doctoral thesis, “Border and boundaries between Modena and Bologna”](https://ueaeprints.uea.ac.uk/61724/1/PhD_vol.1_CarbonaraM..pdf) | Academic thesis, 2016; border-history study | C | PDF pp. 68–70 (printed pages 59–61): the border conflict, the battles of Fossalta and Zappolino, the bucket as a famous episode, the Modenese return with a trophy, and the 1326 peace are discussed; footnote 38 cites Besomi’s critical edition of Tassoni. | Best located academic synthesis for long-running border conflict and the poem/event distinction. It cites older local histories and should be checked against those editions for any exact casualty or force figure. |
+| S6 | [New Cambridge Medieval History, vol. VI, 1300–1415, digitised text](https://ens9004-infd.mendoza.edu.ar/sitio/historia-mediaval/upload/14-%20JONES%2C%20M.%20-%20LIBRO%20-%20New_Cambridge_Medieval_History%20Vol.VI%2C%201300-1415.PDF) | Modern academic synthesis | C | Searchable text around p. 493 identifies Zappolino (November 1325) as consolidating Ghibelline influence in the region and names Castruccio and Cangrande among the wider political actors. | Contextual control against reducing the episode to a local joke. The hosted scan should be checked against a library copy before a verbatim quotation or page-specific attribution is used. |
+| S7 | [Alessandro Tassoni, *La secchia rapita* (1622 text)](https://it.wikisource.org/wiki/La_secchia_rapita_%281930%29) and [Canto primo](https://it.wikisource.org/wiki/La_secchia_rapita_%281930%29/Canto_primo) | Seventeenth-century mock-heroic poem; first published 1622, later revised | B | “A chi legge” says the bucket is the object “per cagion della quale è fama che nascesse tal guerra” (“for which it is reputed that the war began”); Canto I opens with “un’infelice e vil Secchia di legno, / che tolsero ai Petroni i Gemignani.” | Direct evidence for the later literary framing and its own “it is reputed” hedge. It is not a neutral chronicle; the poem deliberately mixes heroic form, burlesque, and historical material. |
+| S8 | [Tassoni, *La secchia rapita*, annotated page on the 1325/1249 chronology](https://it.wikisource.org/wiki/Pagina%3ALa_secchia_rapita.djvu/264) | Later annotated edition of a seventeenth-century poem | B/C | Lines 106–110 say the 1325 Zappolino conflict was narrated by Tassoni “in his own way,” while the bucket theft was used as the occasion for the great armament and battle of 1249; the note calls this an anachronism forgiven because the poem’s aim was comic satire. | Strong evidence that the poem’s memorable chronology is knowingly literary, not a straightforward reconstruction. Confirm against a critical Tassoni edition before treating the note as authorial. |
+| S9 | [University of Bologna, Ecdotica 15 (2018)](https://site.unibo.it/ecdotica/it/numeri-della-rivista/ecdotica-15-2018/ecdotica-15-2018.pdf/%40%40download/file/Ecdotica%2015%20%282018%29.pdf) | Peer-reviewed textual-scholarship article | C | The discussion of the 1744 Modena edition explains its use of Tassoni’s letters, variant editions, censorship history, and later corrections; see the opening discussion and footnotes 19–20. | Controls the poem’s editorial history. It supports the distinction between 1622, 1624, 1630, and later editions, but does not prove what happened in 1325. |
+| S10 | [Treccani, Matteo Griffoni biography](https://www.treccani.it/enciclopedia/matteo-griffoni_%28Dizionario-Biografico%29/) | Scholarly biographical reference | C | The entry describes Griffoni’s notarial career, the c. 1411 compilation of the *Memoriale*, and the autograph manuscript in Bologna’s Archiginnasio. | Establishes provenance and date for S2; it is not an edition of the Zappolino passage itself. |
+| S11 | [Comune di Modena: Zappolino700](https://www.comune.modena.it/novita/comunicati/2025/11/zappolino700-una-conferenza-per-rileggere-il-medioevo-cittadino) | Current civic commemoration | D | Lines 16–21 describe the 2025 programme as a reassessment of Passerino, the battle, shifting alliances, military strategies, political tensions, and identity symbols. | Evidence for modern reception and the need to separate current civic memory from the medieval record. It is not evidence for the bucket’s medieval causation. |
+| S12 | [ISIME catalogue: *Corpus Chronicorum Bononiensium*](https://www.isime.it/product/corpus-chronicorum-bononiensium-2/) | Critical-edition catalogue | C | Catalogue identifies Sorbelli’s RIS² edition and its multi-volume structure; compare the separate Griffoni record in S2. | Bibliographic control for Bologna’s chronicle corpus. Use the edition, not the catalogue, for quotations. |
+
+All URLs above were accessed on **2026-09-13**. Page/line references refer to the linked edition or web text, not to a search-result page.
+
+## Source-handling rules
+
+1. Treat S1 and S2 as retrospective chronicles with different civic positions, not as identical eyewitness records.
+2. Use S3 and S4 to document present-day institutional memory, not to turn a heritage statement into proof of medieval causation.
+3. Use S7–S9 as evidence for how Tassoni’s poem created and stabilised the bucket-centred frame. Do not use the poem as a factual transcript of 1325.
+4. Never state that the bucket caused the war unless a medieval record independently establishes that causal sequence. The sources located for this pack do not do so.
+5. Do not use casualty, army-size, commander, or exact tactical figures without checking the critical Griffoni edition and the relevant manuscript/edition history.
