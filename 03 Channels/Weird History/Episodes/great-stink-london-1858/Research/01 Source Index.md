@@ -54,6 +54,24 @@ All URLs above were accessed on **2026-09-13**. Line references refer to the web
 - **Benjamin Hall, Palmerston, Disraeli, and other parliamentary speakers:** political actors whose speeches reveal arguments and pressure, not independent proof of technical or medical causation.
 - **Michael Faraday and John Snow:** scientific observers whose 1855 river description and 1849 waterborne-cholera argument show that pollution and health were debated before the 1858 crisis.
 
+## Visual opportunities (research only; no asset cleared)
+
+| Opportunity | Evidence anchor | Safe treatment and rights/caption control |
+|---|---|---|
+| Parliament and river proximity | S10–S13, S15 | Use a period map, architectural view, or a restrained document animation to establish that the Houses stood beside the river. Verify the image date, repository licence, and whether a later print is being used to depict 1858. |
+| The “stench in the rooms” as a document-led beat | S11–S13, S15 | Animate short, human-verified excerpts from Hansard or the newspaper reprint with attribution. Keep quotations brief and do not illustrate them with an unverified “Great Stink” photograph. |
+| Pollution before 1858 | S6 and the Wellcome scan in S1 | Faraday’s card-and-water observation can support an original diagram or document close-up. Confirm the *Times* original and image reuse terms before quoting or reproducing it. |
+| The institutional bottleneck | S5, S9, S10, S14 | Build a source-labelled timeline showing the 1855 statutory duty, plan-approval requirement, 1857–58 disputes, and the 1858 financing/authority changes. This is safer than presenting a single “smell caused sewers” visual. |
+| Bazalgette’s pre-crisis plan and later works | S7, S8, S18 | Use the 1865 paper’s plans/plates or archive catalogue leads only after a human checks page, provenance, and rights. Any reconstruction must be labelled as an editorial diagram, not an 1858 photograph or original plan unless verified. |
+| Outfall, tide, and interception | S7, S14 | Redraw the period mechanism from the cited engineering description: intercepting sewers, pumping, reservoirs, high-water discharge, and ebb-tide movement. Label the diagram as a reconstruction and avoid implying modern wastewater treatment. |
+
+### Visual stop rules
+
+- No image is approved for production by this research pack.
+- Do not use a later Victorian sewer, pumping-station, or embankment image as proof of what existed during the June–July 1858 crisis without a date caption.
+- Do not use an alleged 1858 “Great Stink” photograph unless its date, location, provenance, and rights are independently verified; the pack has not located a verified photograph of the smell event itself.
+- Public-domain status, archive terms, quotation limits, and YouTube reuse permissions must be checked separately at the production stage.
+
 ## Source-handling rules
 
 1. Keep **observed smell**, **period miasma explanations**, and **modern disease causation** in separate claim rows.
