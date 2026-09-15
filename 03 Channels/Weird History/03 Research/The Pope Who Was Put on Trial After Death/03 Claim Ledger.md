@@ -1,0 +1,37 @@
+---
+title: The Pope Who Was Put on Trial After Death — Claim Ledger
+topic: Formosus and the Cadaver Synod
+status: Research pack; not narration-ready
+accessed: 2026-09-13
+---
+
+## Ledger conventions
+
+Confidence measures how safely the claim can be stated after comparing the sources, not how vivid or widely repeated it is. “Open caveat” must travel with the claim into any later editorial work.
+
+| ID | Claim | Classification | Primary/critical support | Exact passage / locator | Confidence | Open caveat |
+|---|---|---|---|---|---|---|
+| C01 | Formosus was bishop of Porto before becoming pope and reigned from 6 Oct 891 to 4 Apr 896. | Established fact | Holy See S1; Monroe S10 | S1 gives “Beginning Pontificate 6.X.891 / End Pontificate 4.IV.896 / Birth Bishop of Portus.” | High | “Porto” and “Portus” are used in different editions/translations. |
+| C02 | Arnulf captured Rome and was crowned emperor by Formosus at St Peter’s in 896. | Established fact | Regino S5 | Anno 896, lines 1155–1156: Arnulf comes to Rome, is received by Formosus, and is crowned before St Peter’s confession. | High | The exact day of the coronation is not established by this passage. |
+| C03 | The Fulda continuation places Formosus’s death at Rome on Easter and records his date as 4 Apr 896 in the modern scholarly transcription. | Established fact with calendar caveat | *Annales Fuldenses* S3 | Anno 896, p. 129; Monroe transcription S10, pp. 1–3. | High | Verify the calendar calculation and edition wording against the printed page. |
+| C04 | A Roman council under Stephen VI removed Formosus’s dead body from its grave and subjected him to a judgment/deposition. | Established core event | *Annales Fuldenses* S3; Ravenna dossier S6–S10 | Fulda: “inaudito more” removed from the grave and “per advocatum ... depositum”; Ravenna protocol/capitula describe the body brought “as though to trial.” | High | The standalone acts of the 897 council are not securely extant; Ravenna’s surviving text is indirect and composite. |
+| C05 | In the shortest near-contemporary account, Formosus was buried outside the usual papal burial place after the proceedings. | Established report | *Annales Fuldenses* S3 | Anno 896, p. 129: “extra solitum ... apostolicis locum sepeliri.” | High | The translation of *per advocatum suae responsionis* should be checked by a Latin reader; “by proxy” is safer than imputing agency to the advocate. |
+| C06 | A deacon answered for Formosus and the body was placed on the papal throne. | Established report, not direct act | *Annales Alamannici* / *Laubacenses* quoted in Moore S4; Liudprand S9/S10 | Moore pp. 286–287; Liudprand, *Antapodosis* I.30, pp. 23–24 Latin / Squatriti p. 64 English. | Medium | The annal versions differ; Liudprand dates the agent wrongly as Sergius III. Do not present every theatrical detail as equally secure. |
+| C07 | The body was stripped and two or three fingers of the right hand were cut off. | Established as a reported mutilation; number uncertain | Auxilius and Liudprand discussed in S10; Moore S4 | Monroe Ch. 5, around pp. 208–210: Auxilius says two; Liudprand says three; later explanations connect them to blessing/consecration. | Medium | Exact number, purpose, and which hand/fingers require source-by-source checking. |
+| C08 | The corpse was thrown into the Tiber after the trial or reburial. | Established as a reported event; sequence/agent uncertain | *Annales Alamannici* / *Laubacenses* S4; Ravenna capitula S6–S10 | Moore pp. 286–287; Monroe Ch. 5, around pp. 208–210. | Medium-high | Whether Stephen ordered it, treasure-seekers did it, or annalists collapsed two episodes remains open. |
+| C09 | Blood flowing from the corpse’s mouth is reported by the *Annales Alamannici* and *Laubacenses*. | Established as a narrative detail, not physical fact | S4 | Moore pp. 286–287 quotes “sanguis ...” / “cruor ... per pavimenta.” | High as “reported”; low as an actual occurrence | Treat as a medieval marvel or rhetorical sign, not corroborated forensic evidence. |
+| C10 | Stephen VI was imprisoned and strangled later in 897. | Established event; cause less certain | Herimannus and Stephen’s epitaph in S10 | Monroe around pp. 161–162: by June imprisoned; in August strangled; later epitaph says he was seized, chained, and strangled. | Medium-high | “Popular uprising caused by the scandal” is a plausible inference, not secured by the same evidence. |
+| C11 | Theodore II reversed the Formosan annulments and recovered/reburied Formosus’s body. | Established in later/indirect record | S10; S14 | Monroe around pp. 162–163; Catholic Encyclopedia Formosus entry. | Medium | The separate Roman synod convention and the exact recovery sequence are not equally documented. |
+| C12 | John IX’s Ravenna synod in 898 rehabilitated Formosus and addressed the preceding controversy. | Established event | Synodal catalogue S6; manuscript record S7; MGH S2 | S6 says the synod served Formosus’s rehabilitation and lists the protocol/acts; S7 identifies manuscript folios and text blocks. | High | Date is commonly May or July 898 depending the reference; the precise division of the acts is contested. |
+| C13 | The traditional “revenge by Lambert and Ageltrude” explanation is not proven by a surviving direct order. | Historiographical assessment | Monroe S9/S10; compare old church summary S14 | S10 around pp. 145–148, 212–216: AF reports an invitation/betrayal story; Monroe argues the evidence does not establish the standard motive. | High as a caution; low as a final motive | Keep “traditional interpretation” and “Monroe’s alternative” separate from established fact. |
+| C14 | Formosus’s relationship with Lambert was not simply that of a betrayer: a letter to Fulk of Reims reports support for Lambert, and Ravenna material says the Arnulf coronation was extorted. | Counterevidence / interpretation | Flodoard report and Ravenna act discussed in S10 | Monroe around pp. 2290–2292 and pp. 214–215: Formosus’s support for Lambert; Ravenna cap. III/VI says necessity or coercion. | Medium | These are mediated records and do not by themselves reconstruct Formosus’s private intent. |
+| C15 | Liudprand’s detailed version was written about sixty years later and contains a major identification error. | Established source criticism | Monroe S10 | Ch. 1, pp. 1–3: fuller account “some sixty years later”; pp. 3–4 notes Liudprand names Sergius, not Stephen. | High | “Sixty years” is approximate; use “roughly six decades later.” |
+| C16 | The surviving acts/material associated with the Ravenna synod are transmitted in at least two manuscript versions and were misclassified by older editions. | Established source criticism | MGH S2; Geschichtsquellen S6; Capitularia S7/S8 | S6 manuscript list and edition history; S7 folios 149vb–154ra; S8 transmission/date table. | High | A specialist should check MGH *Concilia* 5 pp. 426–445 before any quotation is treated as a direct 897 act. |
+
+## Not yet claimable
+
+- “The corpse was seated on a throne in January 897” without attributing the detail to the annals/later narrative that reports it.
+- “Lambert and Ageltrude ordered the trial” as a fact.
+- “The body was definitely thrown into the Tiber by Stephen himself.”
+- “John IX definitely held a separate Roman synod whose complete acts survive.”
+- “The three fingers were cut specifically because they made the blessing gesture” unless the later interpretive source is clearly named.

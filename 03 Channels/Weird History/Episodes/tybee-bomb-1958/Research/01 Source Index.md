@@ -1,0 +1,59 @@
+---
+title: The Nuclear Bomb Lost off Georgia — Source Index
+topic: 1958 Savannah/Tybee Island B-47 weapon loss in Wassaw Sound
+status: Research pack; human verification required
+accessed: 2026-09-14
+---
+
+## Research question
+
+What does the declassified and official record establish about the 5 February 1958 B-47 collision near Savannah, the jettisoned Mk 15 Mod 0 weapon, the 1958 search, and the later “irretrievably lost” conclusion—especially when a 1966 congressional inventory appears to conflict with the Air Force/DOE account of the weapon’s configuration?
+
+## Conflict and episode promise
+
+The popular story is that a fully armed hydrogen bomb lies in the mud off Tybee Island. The strongest located official record is narrower: an Air Force B-47 jettisoned a 7,600-pound Mk 15 Mod 0 bomb into the Wassaw Sound area after a midair collision and three failed landing attempts; the original search did not locate it; Air Force/DOE analysis says the training-configuration weapon had no nuclear capsule and could not produce a nuclear detonation. The unresolved question is why a 1966 congressional document was later reported to call the lost weapon “complete,” and whether that conflict can be resolved from the original records.
+
+## Source-quality key
+
+- **A — primary or official:** government assessment, DOE/DoD historical record, official Air Force release or FOIA document.
+- **B — contemporaneous/reputable reporting:** reporting close to the event or based on identified government records; use for chronology, public framing and document leads.
+- **C — secondary research/lead:** useful synthesis or archive index; not sufficient alone for a material claim.
+- **D — unverified/popular claim:** retain only as a lead or counterclaim, never as established fact.
+
+## Indexed sources
+
+| ID | Source and URL | Date / type | Quality | Exact supporting passage or locator | Use and limitation |
+|---|---|---|---|---|---|
+| S1 | [Air Force Search & Recovery Assessment of the 1958 Savannah, GA B-47 Accident](https://nukestrat.com/wp-content/uploads/2026/06/AF2001_Savannah1958.pdf) | 12 Apr 2001; Air Force Nuclear Weapons and Counterproliferation Agency report | A | Executive Summary: 5 Feb 1958 collision; Mk 15 Mod 0 in training configuration with no nuclear capsule; nine-plus-week search; declared irretrievably lost on 16 Apr 1958. Background: three failed Hunter AFB landing attempts, jettison in Wassaw Sound area, 7,200 ft and about 200 knots, 3-square-mile search. Bomb section: Mod 0/Mod 2 distinction and conversion-record reasoning. Recommendations: no nuclear-explosion possibility; leave in place and keep categorized irretrievably lost. | Official report accessed via a specialist mirror because the original Air Force URL is no longer stable. Human should preserve a local citation to the report title/date and verify page images against an official repository if possible. |
+| S2 | [DOE Historical Records Declassification Guide, 2012](https://www.governmentattic.org/39docs/DOEhistRecsDeclassGuide_2012.pdf) | DOE guide / reproduced historical accident summary | A/C | PDF pp. B-4 / extracted text: “February 5, 1958/B-47/Savannah River, Georgia”; 3:30 a.m. collision with F-86; three Hunter AFB landing attempts; no nuclear capsule; jettison into Wassaw Sound off Tybee Beach; unknown impact point; 3-square-mile search; termination 16 Apr; irretrievably lost. | Strong independent official-record route, but hosted by Government Attic and embedded in a large declassification guide. Human should confirm the guide’s publication/provenance and page numbering before quoting. |
+| S3 | [Air Force: “Air Force releases findings of Wassaw Sound survey”](https://www.af.mil/News/Article-Display/Article/134168/air-force-releases-findings-of-wassaw-sound-survey/) | 17 Jun 2005; official Air Force release | A | Lines 59–68: incomplete nuclear weapon; 2004–05 interagency survey; more than 20,000 radiation data points and 12 seabed samples; no evidence of the bomb or man-made enriched uranium; no change to 2001 conclusion; leave it and keep it categorized irretrievably lost. | Best located official source for the later search and the government’s response to radiation-anomaly claims. It reports officials’ conclusions, not a new recovery or a proof of the weapon’s exact resting place. |
+| S4 | [Air Force: “Interagency team checking for H-Bomb lost in 1958”](https://www.af.mil/News/Article-Display/Article/135895/interagency-team-checking-for-h-bomb-lost-in-1958/) | 5 Oct 2004; official American Forces Press Service release | A | Lines 59–67: team from Air Force, Navy, DTRA, national laboratories and DOE; “no arming capsule”; jettison near Tybee; 10-week search; Duke’s unusual-radiation claim; 20-person team sampled water and soil. | Captures the investigation while it was pending. It records the Air Force’s stated position and the private team’s claim without validating the latter. |
+| S5 | [Defense Nuclear Agency, *DoD nuclear mishaps*](https://www.osti.gov/opennet/servlets/purl/16291714/16291714.pdf) | Historical report released through OSTI/OpenNet | A | PDF p. 12 / extracted text, entry 12: 5 Feb 1958 B-47/Savannah River; collision at 3:30 a.m.; three landing attempts; no nuclear detonation possible without capsule; Wassaw Sound; unknown impact point; 7,200 ft and 180–190 knots; 3-square-mile search; search terminated 16 Apr; weapon considered irretrievably lost. | Independent official summary that corroborates S1/S2. The introductory policy warns that some historical accident details were assembled from released DoD material and media references; do not treat every surrounding generalisation as event-specific proof. |
+| S6 | [FOIA Form AL-569 “Temporary Custodian Receipt (for maneuvers)”](https://nukestrat.com/wp-content/uploads/2026/06/01-027H_USAF_020458.pdf) | 4 Feb 1958; AEC/USAF FOIA document | A | The scanned receipt is the primary object. The associated [Nuclear Information Project description](https://nukestrat.com/us/afn/savannah/) states that it identifies a Mk 15 Mod 0 and says the AEC did not allow an active capsule to be inserted; the scan must be inspected for the exact fields and wording. | Important configuration evidence, but the PDF is image-only in the available copy and was not independently OCR-verified in this pass. Do not quote the receipt’s language until a human checks the scan. |
+| S7 | [Nuclear Information Project: “No Nuclear Capsule Inserted, Documents Show”](https://nukestrat.com/us/afn/savannah/) | FOIA document index and contextual note | C/A lead | Page text identifies S1, S6 and the FOIA-released [SAC history](https://nukestrat.com/wp-content/uploads/2026/06/SAC01-0658.pdf); it says the receipt confirms the capsule was not inserted, while the 1966 Howard memorandum created a contrary “complete weapon” reading. | Valuable document map, but the web page is a secondary curator’s explanation. Use its links to reach the scans; do not substitute its summary for direct document inspection. |
+| S8 | [Washington Post, “Hunt May Be Renewed for Long-Missing A-Bomb”](https://www.washingtonpost.com/archive/politics/2001/01/14/hunt-may-be-renewed-for-long-missing-a-bomb/90d3e74c-9576-4e1e-9297-e8c628428176/) | 14 Jan 2001; reported account | B | Lines 13–18, 21–32, 39–45: lost weapon, Air Force claim that the plutonium capsule was absent, 400 lb TNT claim, 1966 Howard letter reportedly listing the device as “complete,” Air Force review saying Howard was wrong, and hazard disagreement. | Useful triangulation and a record of the public dispute. It is not a substitute for the Howard letter or the Air Force assessment. |
+| S9 | [Washington Post, “Radiation Levels Prompt Search”](https://www.washingtonpost.com/archive/politics/2004/10/01/radiation-levels-prompt-search/540e756a-0294-40c7-bd9a-e606bc3a68ee/) | 30 Sep 2004; reported account | B | Lines 15–23, 28–43: private team’s search, 7,600-pound Mark 15, original 90-day search, official “irretrievably lost” wording, reported high readings, and Air Force/DOE uncertainty about whether readings were natural or contamination. | Records the 2004 dispute and private claim. The “3,000 times normal” figure is attributed to the private team and must not be presented as a government finding. |
+| S10 | [Connect Savannah, “Bomb away”](https://www.connectsavannah.com/news-2/bomb-away-2155504/) | 2004 local reporting | B/C | Reports the Howard memorandum’s “complete weapon” wording and the Air Force recommendation to leave the bomb undisturbed. | Local reporting can preserve details absent from national summaries, but claims and quotations require comparison with the cited documents. |
+| S11 | [Free Library catalogue record for the Air Force assessment](https://catalog.freelibrary.org/Record/943305) | Catalogue / GPO record | A/C | Catalogue identifies the issuing body, title, 2001 date, online resource and GPO PURL history. | Supports provenance for S1; it does not add event facts. |
+| S12 | [FOIA index entry for the Savannah assessment and SAC history](https://nukestrat.com/foiaindex/) | Archive index | C/A lead | Page lines around 214–215, 266–269 and 472–475 list the 2001 Air Force assessment, AL-569 receipt, DOE correspondence lead and SAC historical study. | Retrieval map for the declassified record. Human should inspect the underlying scans and FOIA release metadata. |
+
+## Required primary-source retrieval queue
+
+1. Inspect the scan of **S6 AL-569** and transcribe the exact weapon/configuration fields; preserve an image-page locator.
+2. Retrieve the **1966 W.J. Howard letter to the Joint Committee on Atomic Energy** from the congressional/FOIA release, not only the newspaper transcription. Record exactly what “complete weapon” meant in that document and whether it referred to the Tybee weapon, a category, or a table-entry error.
+3. Inspect the original Air Force **S1** PDF pages and its cited maintenance/AEC production records. Confirm whether the Mod 0-to-Mod 2 conversion timeline is documented in the report’s attachments or only asserted in its analysis.
+4. Inspect the **SAC January–June 1958 history (S7 link)** for weapon-custody rules and the distinction between training/transport configuration and a complete weapon. Do not generalize from another B-47 accident without the relevant page.
+5. Locate the 1958 search logs, Navy diver/galvanic-drag records and any contemporary announcement that fixed 16 April as the termination date.
+6. Locate the full 2004–05 interagency survey report and laboratory results. S3 is an official public summary, not the complete technical dataset.
+
+## Key entities and voices
+
+- **Col. Howard Richardson and B-47 crew:** aircraft crew who jettisoned the weapon and landed at Hunter AFB; use only documented biographical details.
+- **F-86 pilot and aircraft:** involved in the midair collision; the pilot’s survival/ejection should be verified separately if used.
+- **Air Force Nuclear Weapons and Counterproliferation Agency:** author of S1 and source of the 2001 recommendation.
+- **Department of Energy / predecessor AEC:** weapons-custody and technical-analysis authority represented in S1–S6; distinguish DOE analysis from Air Force operational records.
+- **Navy Supervisor of Salvage:** assessed modern search feasibility in S1 and found a very low probability of success.
+- **Congressman Jack Kingston:** prompted the 2000 Air Force re-investigation according to S1 and S8; verify the congressional correspondence if this becomes material.
+- **Derek Duke and ASSURE:** private searchers whose radiation readings triggered the 2004 survey; their claims are evidence of a later search effort, not proof of recovery or location.
+
+All URLs were accessed on **2026-09-14**. This index intentionally preserves the unresolved 1966-document conflict and does not clear any archival image, map, aircraft photograph, newspaper scan or audio for reuse.

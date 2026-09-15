@@ -1,0 +1,64 @@
+---
+title: Did America Really Panic over Martians? — Source Index
+topic: 1938 War of the Worlds broadcast, CBS, Orson Welles, United States
+status: Research pack; human verification required
+accessed: 2026-09-14
+---
+
+## Research question
+
+On 30 October 1938, how did a CBS radio drama generate real fear and a durable story of national panic—and what can the surviving broadcast, contemporary records, listener correspondence, newspapers and later research actually establish about the scale of the reaction?
+
+## Conflict and episode promise
+
+The broadcast used a realistic news-bulletin format and some listeners responded with genuine fear, calls and complaints. The conflict is over scale and memory: contemporary headlines described a nationwide crisis, while later analysis argues that the press and selective evidence inflated a more limited and uneven response. The episode promise is to reconstruct the evidence without replacing one absolute story with another.
+
+## Source-quality key
+
+- **A — primary or near-primary:** broadcast audio/transcript, contemporary letter, contemporary newspaper, regulator file or original study.
+- **B — institutional record or archival synthesis:** National Archives, Library of Congress, university-library catalogue or collection description.
+- **C — researched secondary account:** peer-reviewed scholarship or specialist historical analysis used to explain method, provenance and historiography.
+- **D — popular synthesis:** lead-finding only unless independently corroborated.
+
+## Indexed sources
+
+| ID | Source and URL | Date / type | Quality | Exact passage or locator | Use and limitation |
+|---|---|---|---|---|---|
+| S1 | [Indiana University, *The War of the Worlds*](https://orsonwelles.indiana.edu/items/show/1972) | 30 Oct 1938 broadcast item / archive record | A/B | Record gives date 10/30/38, credits Welles, H.G. Wells and Howard Koch, and says portions were transferred from disc while other portions came from a later cassette copy. Rights note says the radio play is used with permission of Peter Koch. | Primary audio access and provenance lead. The surviving item is not a single untouched master; inspect the specific file and note gaps/duplication before quoting a timestamp. |
+| S2 | [Wellesnet, broadcast transcript](https://wellesnet.com/the-war-of-the-worlds-radio-script/) | Transcript of 30 Oct 1938 CBS broadcast | A/B | Lines 20–35: programme identification, Welles introduction, 1939 framing, weather report, dance music and first simulated bulletin; lines 364–367: Welles’s out-of-character closing and CBS sign-off. | Readable transcript for locator building. It is an editorial transcript, not the original script manuscript; compare material quotations with audio and an archival script. |
+| S3 | [National Archives, “Jitterbugs” and “Crack-pots”](https://www.archives.gov/publications/prologue/2003/fall/war-of-worlds.html) | FCC correspondence synthesis, 2003; cites RG 173 | B with quoted primary material | Lines 50–57: broadcast form, date, estimated audience, calls and letters; lines 60–63: complaint examples, Trenton city-manager letter and Cantril study; lines 66–75: late tuning, supportive letters and counterexamples. | Core institutional map to the FCC file and named quotations. It summarizes archival material and repeats historical estimates; verify the underlying scans before narration. |
+| S4 | [National Archives Text Message, Trenton letter](https://text-message.blogs.archives.gov/2022/10/27/radio-broadcast-of-a-catastrophe-results-in-very-grave-and-serious-situation-in-trenton-new-jersey/) | 1938 letter and archival commentary | A/B | Lines 10–13: Paul Morton’s account of 2,000 calls in two hours and the FCC receipt date; lines 18–24: J.V. Yaukey’s contrasting letter describing himself as entertained. | Shows documented local disruption and a contemporaneous non-panic response. The 2,000-call figure is one city manager’s account, not a national count. |
+| S5 | [National Archives catalogue, Paul Morton letter, NAID 596224](https://catalog.archives.gov/id/596224) | 31 Oct 1938 letter received by FCC | A/B | Linked item from S4; inspect the digitised letter and attached clippings for page-level wording, sender, recipient, date and attachments. | Primary record target for human verification. Catalogue metadata alone does not establish every detail in later summaries. |
+| S6 | [National Archives catalogue, J.V. Yaukey letter, NAID 596223](https://catalog.archives.gov/id/596223) | 1 Nov 1938 letter received by FCC | A/B | Linked item from S4; inspect the scan for exact wording and whether the sender’s location/date match the summary. | Primary counterevidence target. One supportive letter cannot quantify the whole audience. |
+| S7 | [Library of Congress Magazine, “Page from the Past: War of the Worlds” PDF](https://www.loc.gov/lcm/pdf/LCM_2016_0708.pdf) | Institutional historical synthesis, July/August 2016 | B | PDF pp. 7–8 (printed pages): four broadcast warnings, a 5,000-household telephone survey, roughly 2% tuned in and most knew it was fiction; newspaper headlines then helped establish a widespread-panic legend. | Useful for audience context and the press-memory problem. It is a later synthesis; verify the underlying telephone survey and newspaper object. |
+| S8 | [JSTOR, *The Invasion from Mars*](https://www.jstor.org/stable/j.ctt7ztk4f) | Hadley Cantril, 1940 study | A/C | Book record pp. 47–64: Cantril’s headline estimate of at least six million listeners and at least one million frightened/disturbed; pp. 87–108: differentiated reactions; pp. 111–124: “critical ability” and checking. | Essential primary study for the classic panic estimate. Cantril’s sample, recruitment and categories must be read in full; do not treat its headline estimates as audited census results. |
+| S9 | [International Journal of Communication, Pooley and Socolow, “Checking Up on *The Invasion from Mars*”](https://ijoc.org/index.php/ijoc/article/view/2117) | Peer-reviewed article, 2013 | C | Abstract and PDF pp. 1920–22, 1938–40: archival reconstruction of the Cantril/Lazarsfeld dispute; the study is described as a collaborative Princeton Radio Research Project product and as more nuanced than the later “mass panic”/“magic bullet” memory. | Primary historiographic critique and method context. It does not by itself settle the number of frightened listeners. |
+| S10 | [University of Michigan, War of the Worlds Fan Mail collection](https://quod.lib.umich.edu/w/wow) | 1,349 surviving letters, 1938; digitised collection | A/B | Collection page states that 1,349 letters were preserved, describes tags including “frightened,” “not frightened” and “did not hear,” and notes more than 600 additional FCC letters. | Large surviving reception corpus with searchable transcriptions. It is a self-selected correspondence archive, not a representative survey; collection tags and transcriptions need item-level checking. |
+| S11 | [University of Michigan, Edward Sereda letter](https://quod.lib.umich.edu/w/wow/wow.0030.086/1) | Handwritten letter, 31 Oct 1938 | A | Search record transcription: sender says the broadcast frightened many people including himself, while praising the acting and requesting a script. | A named local reception example combining fear and admiration. One letter is illustrative, not prevalence evidence. |
+| S12 | [University of Michigan, Raymond I. Moore letter](https://quod.lib.umich.edu/w/wow/wow.0026.013/1) | Typewritten letter, 1 Nov 1938 | A | Search record transcription: writer calls for an apology to people frightened by the broadcast, says he and his friends knew it was play, and criticizes “sensation mongers.” | Counterexample showing mixed reception and contemporary criticism of sensational coverage. Verify full scan and transcription before quoting. |
+| S13 | [University of Michigan, Edwin George letter](https://quod.lib.umich.edu/w/wow/wow.0004.034/1) | Handwritten letter, 2 Nov 1938 | A | Search record transcription: writer describes a “furor,” says the panic was created by the public, and objects to national-hysteria blame while praising the production. | Contemporary evidence of debate over the reaction’s meaning. The letter is from Toronto and should not be silently treated as U.S. population evidence. |
+| S14 | [Rock Archive scan of the 31 Oct 1938 *New York Times* report](https://resource.rockarch.org/98205154_page_1_display/) | Contemporary newspaper page | A/B | Archive record identifies “Radio Listeners in Panic, Taking War Drama as Fact,” 31 Oct 1938; use page image and full article, not only headline. | Direct evidence of the early national-panic framing. Rights clearance resides with the user; do not use image in production without clearance. |
+| S15 | [World Radio History scan reproducing the *New York Times* article](https://www.worldradiohistory.com/BOOKSHELF-ARH/Business/Encyclopedia-of-Radio-and-Television-Broadcasting-St.-John.pdf) | Reproduced newspaper text | A/B | Search record reproduces the headline and opening claim of a “wave of mass hysteria” and gives the date and paper. | Useful text access when the NYT scan is restricted. Confirm against S14; a reproduction may omit page layout, correction or continuation. |
+| S16 | [National Endowment for the Humanities, “The Fake News of Orson Welles”](https://www.neh.gov/article/fake-news-orson-welles-war-worlds-80) | Institutional feature, 2018 | B/C | Lines 79–81: 31 Oct press conference and NYT headline; lines 94–107: opening, faux-newscast structure, late listeners and closing assurance; lines 109–113: later “overblown” interpretation. | Good narrative and production context. It includes later interview opinions and should not replace the primary broadcast or newspaper. |
+| S17 | [National Recording Registry, Library of Congress, 2002 induction page](https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/registry-by-induction-years/2002/) | Institutional preservation record | B | Entry identifies “War of the Worlds” (The Mercury Theatre on the Air) as a radio broadcast premiere. | Establishes preservation significance. It is not evidence about listener reaction or audience scale. |
+
+All URLs were accessed on **2026-09-14**. Source quality and confidence are provisional until a human editor checks the primary scans, audio and methodological details. The broadcast recording and fan letters have separate rights notes; archival availability is not automatic permission for reuse.
+
+## Primary-source retrieval queue
+
+1. Download and listen to the Indiana University item, logging timestamps for the opening identification, first simulated bulletin, Grovers Mill reports, CBS station break, final out-of-character assurance and sign-off. Compare every quoted line with S2.
+2. Inspect the original Howard Koch script or a library-held script scan and record page/scene locators. Do not assume the surviving transcript exactly matches the performance.
+3. Retrieve and read S5 and S6 in full, including attachments and verso pages; record the sender, recipient, date, exact call counts and any editorial annotations.
+4. Inspect S14’s newspaper page and the complete 31 October article; compare its national language and local anecdotes with the *Chicago Herald and Examiner*, *New York Daily News*, *Newark News* and other named papers rather than treating one front page as a survey.
+5. Read Cantril’s methods, appendices and tables, not only the opening “six million/one million” claim. Record how the audience estimate, interview sample and frightened/disturbed categories were derived.
+6. Sample the University of Michigan collection across frightened, not-frightened, did-not-hear, geographic and date tags. Preserve selection bias and do not calculate national prevalence from the archive.
+7. Read Pooley and Socolow’s full article and its references to reconstruct the study’s institutional history; label their interpretation as later scholarship.
+8. Obtain specialist media-history review of the final scale wording, the press-radio rivalry hypothesis and any statement about “mass hysteria,” injuries, suicides or nationwide flight.
+
+## Documentary visual and audio opportunities — research leads only
+
+- S1/S2: archival audio/transcript for a short, rights-cleared excerpt or waveform treatment; rights and fair-use assessment required.
+- S5/S6 and S10–S13: FCC correspondence and listener letters showing mixed reactions; use scans only after permissions, privacy and legibility review.
+- S14: 31 October 1938 *New York Times* front page/article showing the national-panic frame; rights clearance remains open.
+- S7: Library of Congress page image and radio-preservation context; archival lead, not an automatically reusable visual.
+- No visual, audio or quotation is approved for production by this research pack.
