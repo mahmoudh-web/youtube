@@ -2,7 +2,7 @@
 title: The Exploding Whale — Counterevidence and Alternatives
 topic: November 1970 Florence, Oregon whale disposal
 status: Research pack; human verification required
-accessed: 2026-09-14
+accessed: 2026-09-15
 ---
 
 ## Linked notes
@@ -17,7 +17,6 @@ accessed: 2026-09-14
 | Rendering / fertilizer | The 11 November report says officials tried to find a rendering plant willing to take the whale and found no takers. | A commercial recovery route was investigated and unavailable. | It does not identify the plants contacted, their reasons, or whether transport was considered. |
 | Cut up, then bury | The later KATU transcript says cutting was rejected because nobody wanted to cut up the carcass; the 1994 ODOT account says the remaining whale was ultimately buried. | Manual disassembly was present in the later narrative as an impractical option and in the outcome as cleanup. | It is not a contemporaneous written engineering analysis of labor, safety or cost. |
 | Burn | The later transcript says it could not be burned; the 1994 ODOT account says later whales were burned and buried. | Burning was part of the later retelling of the 1970 options, and later practice differed. | It does not prove why burning was ruled out in 1970 or whether a permit/fire-safety issue mattered. |
-| Tow / haul out to sea | Later ABC/ODOT retellings say haul-out was not viable because the carcass might return. | This is a plausible later-reported alternative. | It is not in the located 11 November contemporary article; do not present it as a fully documented contemporaneous option without more records. |
 | Leave it to decompose | No located 1970 source treats natural decomposition as the selected plan; 1979 and later accounts show burial/other management. | It is a modern comparison point, not a demonstrated 1970 alternative. | Do not use current practice to judge what local officials knew or could do in 1970 without specialist context. |
 
 ## Contradictions and corrections
@@ -40,7 +39,7 @@ Later coverage often compresses the event into “Oregon blew up a whale.” The
 
 ### Navy advice
 
-Oregon Encyclopedia, ODOT’s 1994 employee paper and later news reports say Navy or munitions experts were consulted. The located sources do not name the individuals, preserve their advice or show that the Navy approved the amount of dynamite. This distinction must remain visible.
+Oregon Encyclopedia and ODOT’s 1994 employee paper say Navy or munitions experts were consulted. The located sources do not name the individuals, preserve their advice or show that the Navy approved the amount of dynamite. S12 is an OHS provenance/oral-history page and is not evidence for the Navy consultation. This distinction must remain visible.
 
 ### Footage and “viral” afterlife
 
@@ -48,8 +47,9 @@ The original film is identifiable: KATU news, Paul Linnman, Doug Brazil, 16mm co
 
 ## Counterevidence checklist for human review
 
-- Compare the 11–13 November newspaper scans with the online transcriptions.
+- Compare the 11–13 November newspaper scans with the online transcriptions; the mirror pages were not enough to verify exact wording, names or date captions in the validator pass.
 - Search Oregon State Highway Division/ODOT district files, commission minutes, maintenance logs and correspondence for a formal authorization.
 - Identify the source behind the Navy-consultation claim and determine whether the advice was technical, informal or merely later recollection.
-- Reconcile the exact 1979 treatment of the forty-one whales: Oregon Encyclopedia says burial; the ODOT employee account says burned and buried.
-- Verify whether the original KATU film catalogue assigns rights to OHS, KATU, another party or multiple rights holders.
+- Treat the 1979 wording as a source-layer distinction rather than an unexplained contradiction: S14’s contemporary OCR says burned then buried, while S8 shortens this to buried and S9 later repeats burned and buried. Inspect the scan and 18–19 June reports before making it load-bearing.
+- Verify the official OHS KATU catalogue entry, which states that copyright for the broadcasts is held by KATU-TV and marks the material In Copyright; determine whether any additional item-level rights apply.
+- The pack does not use towing/haul-out as a documented alternative because no traceable source was supplied.

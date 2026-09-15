@@ -2,7 +2,7 @@
 title: The Exploding Whale — Timeline
 topic: November 1970 Florence, Oregon whale disposal and later legend
 status: Research pack; human verification required
-accessed: 2026-09-14
+accessed: 2026-09-15
 ---
 
 ## Linked notes
@@ -23,15 +23,15 @@ accessed: 2026-09-14
 | 12 Nov 1970, after the signal | The blast sent debris in multiple directions; no person was reported hit, a large piece damaged a car about a quarter mile away, and larger pieces were later buried. | Fact / bounded harm claim | S3, lines 48–62; S6, lines 57–63. “No one was hit” does not mean no one was endangered or that the disposal succeeded. |
 | 17 Nov 1970 | The Register-Guard reported Walter Umenhofer’s car damage and his attempt to obtain compensation from the State Highway Commission/insurer. | Contemporary follow-up | S4, lines 19–37. |
 | 23 Nov 1970 | The state insurer paid Umenhofer the car’s full retail value; he continued to criticize the placement and amount of explosive. | Contemporary follow-up / attributed criticism | S5, lines 20–34. |
-| 1979 | Forty-one sperm whales beached south of Florence. The Oregon Encyclopedia says blasting was quickly rejected and the carcasses were buried; later ODOT material says State Parks burned and buried them. | Fact with source wording difference | S8, lines 37–38; S9, lines 38–40. Human verification should reconcile the exact treatment. |
+| 1979 | Forty-one sperm whales beached south of Florence. A contemporary Oregon Daily Emerald OCR reports that the carcasses were burned and then buried on site; the Oregon Encyclopedia uses the shorter “buried” summary, while later ODOT material also says State Parks burned and buried them. | Fact with source-layer distinction | S8, lines 37–38; S9, lines 38–40; S14. Human verification should inspect the scan image and 18–19 June reporting if this comparison becomes load-bearing. |
 | May 1990 | Dave Barry’s syndicated column revived the story for a wider audience; OHS says the footage’s internet circulation followed later. | Reception history | S8, lines 36–38; S7, lines 84–85. Do not treat “first viral video” as an objective settled superlative. |
 | July 1994 | ODOT’s employee newspaper published “Son of Blubber,” a retrospective intended to answer recurring questions. It named Thornton, recounted the Navy consultation and said he got the task by default. | Later agency recollection | S9, lines 18–36. It is not a contemporaneous authorization record. |
 | Late 1980s / 2020 | KATU donated the original 16mm footage to OHS in the late 1980s; OHS later arranged a 4K transfer by AV Geeks and KATU used that transfer in a 2020 remaster. | Archival provenance | S7, lines 93–96; S10, lines 198–201. Rights and licence terms remain open. |
 
 ## Decision-chain reconstruction
 
-The strongest current sequence is: Port of Siuslaw notification → Eugene district maintenance office / Oregon State Highway Division responsibility → Assistant District Highway Engineer George Thornton as field decision-maker → consultation reported with Navy/munitions experts → charges placed and detonated by Highway Division workers. The chain above Thornton is not established. Dale Allen’s absence and the “by default” explanation come from a 1994 agency publication, not a contemporaneous order.
+The strongest current sequence is: Port of Siuslaw notification → Eugene district maintenance office / Oregon State Highway Division responsibility → Assistant District Highway Engineer George Thornton as field decision-maker → consultation reported by later institutional sources with Navy/munitions experts → charges placed and detonated by Highway Division workers. The chain above Thornton is not established. Dale Allen’s absence and the “by default” explanation come from a 1994 agency publication, not a contemporaneous order. S12 is provenance/oral-history material only and is not evidence for the Navy consultation or alternatives.
 
 ## Timeline stop condition
 
-Human verification must inspect the 11–13 November newspaper scans, establish whether a Highway Division order, district log or commission record survives, and reconcile the 1979 disposal wording before any date, title or causal claim is promoted into narration.
+Human verification must inspect the 11–13 November newspaper scans, establish whether a Highway Division order, district log or commission record survives, identify any Navy/munitions consultation record, and reconcile the 1979 disposal wording before any date, title or causal claim is promoted into narration. The online newspaper pages are transcriptions/mirrors, not verified scan quotations.

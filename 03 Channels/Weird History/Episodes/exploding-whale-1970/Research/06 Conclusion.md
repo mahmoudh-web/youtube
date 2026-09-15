@@ -2,7 +2,7 @@
 title: The Exploding Whale — Research Conclusion
 topic: November 1970 Florence, Oregon whale disposal and KATU footage
 status: Research stop; human verification required
-accessed: 2026-09-14
+accessed: 2026-09-15
 ---
 
 ## Provisional assessment
@@ -18,11 +18,12 @@ The safest episode promise is: **the record identifies the engineer who chose dy
 - The Highway Division was the agency described as responsible for ocean beaches and cleanup.
 - George Thornton, assistant district highway engineer, was the named field engineer in charge and gave the signal for the blast.
 - Contemporary reporting documents burial and a failed attempt to find a rendering plant; the KATU transcript and later ODOT account report cutting/burying and burning as impractical.
-- Sources report consultation with the U.S. Navy or munitions experts, but no written recommendation or named consultant is in this pack.
+- The Oregon Encyclopedia and later ODOT account report consultation with the U.S. Navy or munitions experts, but no written recommendation or named consultant is in this pack; S12 is not evidence for that claim.
 - Twenty 50-pound cases—approximately 1,000 pounds or half a ton—were placed under the carcass with the stated aim of directing fragments seaward and letting scavengers consume small pieces.
 - The blast sent material in multiple directions, damaged Walter Umenhofer’s car about a quarter mile away and left larger pieces to be buried. The located reports say no person was hit, but spectators ran and were covered by smaller particles.
-- KATU reporter Paul Linnman and cameraman Doug Brazil captured the event on 16mm color-reversal film with magnetic audio. OHS identifies the material as collection MI 11196, says KATU donated the original in the late 1980s and records a 4K transfer by AV Geeks for OHS in 2020.
+- KATU reporter Paul Linnman and cameraman Doug Brazil captured the event on 16mm color-reversal film with magnetic audio. OHS identifies the material as collection MI 11196, says KATU donated the original in the late 1980s and records a 4K transfer by AV Geeks for OHS in 2020. The official OHS catalogue states that copyright for the broadcasts is held by KATU-TV and marks the collection In Copyright.
 - Dave Barry’s 1990 column and later internet circulation helped turn the local report into a durable legend; “first viral video” and view-count superlatives remain attribution-only reception claims.
+- For the 1979 comparison, a contemporary Oregon Daily Emerald OCR reports that forty-one carcasses were burned and then buried on site; the Oregon Encyclopedia uses the shorter “buried” summary. The scan and earlier June reports still require human inspection before this comparison becomes load-bearing.
 
 ## Key entities
 
@@ -47,6 +48,6 @@ That interpretation is supported by the sequence of contemporary reports, the br
 
 ## Research stop
 
-Human verification is required before any material claim advances. The exact next actions are listed in [[05 Uncertainty and Legal Sensitivity]]: inspect the original newspaper scans; locate district/commission authorization and Navy-consultation records; reconcile the 1979 comparison; verify OHS/KATU rights; and approve a non-graphic editorial treatment.
+Human verification is required before any material claim advances. The exact next actions are listed in [[05 Uncertainty and Legal Sensitivity]]: inspect the original newspaper scans against the mirror/transcriptions; locate district/commission authorization and Navy/munitions consultation records; reconcile the 1979 comparison; verify the OHS catalogue and KATU-TV rights condition; and approve a non-graphic editorial treatment.
 
 This folder is **not narration-ready**. It contains no script, title, thumbnail, visual brief, edit plan or production asset.
