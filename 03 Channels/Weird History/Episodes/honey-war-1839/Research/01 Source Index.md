@@ -1,0 +1,61 @@
+---
+title: The Honey War: When Bees Triggered a Border Mobilisation — Source Index
+topic: Missouri–Iowa boundary dispute, Iowa Territory, 1816–1851; 1839 Honey War
+status: Research pack; human verification required
+accessed: 2026-09-14
+---
+
+## Research question
+
+How much of the 1839 Honey War story survives in contemporary records? The working answer is that the jurisdictional crisis, rival boundary claims, tax enforcement, proclamations, arrest and militia preparations are directly documented. The bee-tree count, colourful equipment, exact troop strength and “bloodless” shorthand depend on later or partisan accounts and still need primary-source checking.
+
+## Conflict and episode promise
+
+Missouri and Iowa Territory inherited an uncertain northern/southern boundary from the 1816 Sullivan survey, the 1820 Missouri admission language and competing interpretations of the phrase concerning the “rapids of the river Des Moines.” Missouri’s 1837 Brown survey and 1839 legislation claimed a line farther north, potentially adding roughly 2,600 square miles. In 1839 each government instructed officials to enforce its own jurisdiction; a Missouri sheriff was arrested after attempting tax collection, and both sides prepared militia. The later “Honey War” name is attached to a story about bee trees being cut, but the central contemporary federal file is a jurisdictional and constitutional dispute, not a bee narrative.
+
+## Source-quality key
+
+- **A — contemporary primary record:** federal message, governor’s proclamation, statute, court judgment, map or newspaper.
+- **B — archival/institutional record:** finding aid, government archive summary or museum/library record that reproduces or describes primary material.
+- **C — researched secondary history:** useful for chronology, comparison and interpretation; not a substitute for the underlying record.
+- **D — later popular retelling:** lead-finding only; insufficient for a material claim alone.
+
+## Indexed sources
+
+| ID | Source and URL | Date / type | Quality | Exact passage or locator | Use and limitation |
+|---|---|---|---|---|---|
+| S1 | [President Van Buren, message on the disputed Missouri–Iowa boundary, GovInfo](https://www.govinfo.gov/content/pkg/SERIALSET-00354_00_00-005-0004-0000/pdf/SERIALSET-00354_00_00-005-0004-0000.pdf) | 24 Dec 1839; congressional primary record | A | Printed pp. 1–17. Message transmits Lucas’s 3 Oct letter and documents; Lucas proclamation dated 29 Jul; Boggs proclamation dated 23 Aug; Lucas reply dated 25 Sep. Lucas describes tax assessment and warns against foreign jurisdiction; Boggs orders Missouri officers to enforce the Brown line and keep militia ready. | Core contemporary record. It records competing official positions and legal threats, not an independent adjudication; its enclosed documents reflect Iowa and Missouri advocacy. |
+| S2 | [Boundary between Missouri and Iowa, House Doc. No. 128](https://usace.contentdm.oclc.org/digital/api/collection/p16021coll5/id/37723/download) | 30 Jan 1839; federal commissioner’s report | A | PDF pp. 1–9, 22–26. Albert M. Lea reports four possible lines and explains the Sullivan/Indian boundary, Des Moines Rapids question and Brown line; pp. 7–9 discuss competing rapids interpretations. | Contemporary technical/administrative record. OCR is imperfect; inspect scans before quoting names, coordinates or map labels. |
+| S3 | [State Historical Society of Missouri, Missouri–Iowa Border Dispute Records, R1374](https://files.shsmo.org/manuscripts/rolla/R1374.pdf) | Finding aid; records 1815–1862 | B | pp. 1–2. Collection contains 23 documents—letters, deeds and proclamations—and identifies the dispute as beginning in 1839 and the Sullivan Line as the 1816 survey. | Excellent retrieval lead for originals and archival context. The finding aid is not itself the complete document set. |
+| S4 | [Missouri Secretary of State, Abstract of Wars & Military Engagements](https://www.sos.mo.gov/archives/soldiers/abstract) | State archive summary | B | “Iowa (or Honey) War, 1839” section. States that the northern boundary was not properly surveyed, Boggs ordered enforcement to the northernmost line, Lucas warned Missouri officials away, a Missouri man cut three bee trees and nearly 800 Missouri militiamen were called. | Missouri institutional summary. Useful for the state-memory version and the 800 figure; it conflicts with other counts and compresses chronology. |
+| S5 | [Missouri Secretary of State, Missouri Bicentennial: Adversity](https://www.sos.mo.gov/Archives/Bicentennial/Adversity) | Modern state archive exhibit | B | “1839 Iowa (Honey) War” section. Says a Missouri man was fined $1.50 by an Iowa court after cutting three bee trees; describes both militias, deer effigies and the 1839 map. | Supports later Missouri retelling and the $1.50/deer details. “Only casualties were two deer” is a humorous retrospective, not a contemporary casualty record. |
+| S6 | [National Park Service, “The Honey War”](https://www.nps.gov/places/the-honey-war.htm) | Modern federal history page | B | Paragraphs 32–40. Summarises Sullivan, Brown, the 2,616-square-mile estimate, tax collection, August proclamations, Gregory’s arrest, four trees, 600–2,500 Missouri troops and improvised Iowa weapons. | Clear overview, but contains a visible typo (“Washington State” for the territorial-control analogy) and conflicting four-tree/three-tree wording elsewhere in the record. Use as synthesis, not sole support. |
+| S7 | [Iowa Palimpsest, “The Honey War”](https://pubs.lib.uiowa.edu/palimpsest/article/id/23461/download/pdf/) | Erik M. Eriksson, 1924; historical synthesis | C | PDF pp. 339–350. Describes the three bee trees, Sullivan and Brown lines, July/August proclamations, Gregory’s 20 Nov arrest, militia preparations, roughly 2,000 Missouri men, an Iowa nominal force of 1,200 with about 500 reaching camp, committees and the 1849/1851 resolution. | Detailed chronology and bibliography of earlier records. Written 85 years later, with colourful narrative and no direct image-level audit here; not eyewitness evidence. |
+| S8 | [Teaching Iowa History, “The Honey War”](https://teachingiowahistory.org/iowa-stories/honey-war) | Modern educational synthesis | C | Paragraph 2. Gives the 2,616-square-mile estimate, Gregory’s arrest, improvised weapons, whiskey, the cold-night withdrawal and the Supreme Court endpoint. | Helpful corroboration of the popular narrative, but the page is an excerpt from a later book in progress and should not replace the primary file. |
+| S9 | [Missouri Historical Review, “Demand Nothing but what is Strictly Right…”](https://digital.shsmo.org/digital/collection/mhr/id/55806/) | Thomas M. Spencer, 2008; scholarly article page | C/B | Digitised page 22 introduces the article and quotes John McDowell Burrows on the Scott County muster, including pitchforks, scythes, hoes and clubs. The article runs pp. 22–40. | Scholarly state-history interpretation with a primary recollection quoted. Copyrighted article; use paraphrase and consult full pages for context. |
+| S10 | [U.S. Reports, Missouri v. Iowa, 48 U.S. 660 (1849), Library of Congress scan](https://tile.loc.gov/storage-services/service/ll/usrep/usrep048/usrep048660/usrep048660.pdf) | 6 Apr 1849; Supreme Court primary record | A | U.S. Reports pp. 660–79. Court discusses Sullivan’s 1816 line, federal recognition through public-land surveys and Iowa’s territorial organisation; the judgment holds the practical Sullivan line to be the boundary. | Core legal resolution. Read the complete scan for the holding, procedural posture and exact line description; a case summary is not enough. |
+| S11 | [U.S. Reports, Missouri–Iowa boundary commissioners, 51 U.S. 1 (1851)](https://law.resource.org/pub/us/case/reporter/US/51/51.US.1.html) | 3 Jan 1851; Supreme Court order/report | A | Paragraphs 26–80. Court records the appointment of commissioners, the 1850 resurvey, discovery of Sullivan witness trees and cast-iron monuments; it distinguishes legal decree from marking work. | Core endpoint for physical demarcation. Law.resource.org is a readable transcription; verify against an official scan if quoted in narration. |
+| S12 | [National Archives, American Indian treaties catalogue links](https://www.archives.gov/research/native-americans/treaties/catalog-links) | Archival research guide | B | Treaty catalogue includes 1816–1839 Prairie du Chien and related cession records involving Osage, Ioway, Sauk and Fox, Menominee, Winnebago and others. | Retrieval lead for Indigenous context. It is not evidence that the disputed land was unoccupied or that treaty parties accepted later state boundary rhetoric. |
+| S13 | [Library of Congress, Constitution of the State of Missouri](https://www.loc.gov/item/17008665/) | 1820 constitution; digitised primary source | A/B | Online text and scan record. Article I contains the boundary description referring to the “rapids of the river Des Moines” and the Indian boundary line. | Use with the federal 6 Mar 1820 admission act and the 1839 proclamations. Text extraction and image access should be checked before quoting punctuation or section numbering. |
+| S14 | [Missouri Secretary of State, Historic Missouri chronology](https://www.sos.mo.gov/default.aspx?PageID=10066) | Modern state archive chronology | B | 1839 entry identifies the Honey War as a 9.5-mile-wide strip, militia stalemate, three bee trees and the 6 Apr 1849 Supreme Court decision. | Useful compact index. The 9.5-mile width and “bloodless” phrasing are summary language, not a substitute for the boundary record. |
+| S15 | [Hawkins Taylor autobiography, BYU Studies](https://byustudies.byu.edu/online-book/views-from-the-iowa-side-of-the-mississippi-river/2041) | 1876 autobiography; later recollection | C | Section “The Missouri-Iowa Border War,” paras. 346–351. Describes Boggs/Lucas, an 24 Oct meeting, Gregory’s November arrest, about 800 Missouri and 600 Iowa troops, and the 9/14 Dec peace process. | Later Iowa-side memory; useful for comparison but not contemporary eyewitness evidence. It conflicts with the 20 Nov date and larger mobilisation figures in S7. |
+
+All URLs were accessed on **2026-09-14**. Sources S1, S2, S10 and S11 are the main primary-record spine. S3 and S12 identify archival retrieval work still outstanding. The contemporary newspaper and court records behind the bee-tree story have not yet been inspected at image level.
+
+## Primary-source retrieval queue
+
+1. Read the complete GovInfo scan S1, especially the enclosed Missouri and Iowa acts, proclamations and any references to the sheriff, tax collection, troops or bee trees.
+2. Obtain the original 1839 newspaper issue(s) behind the story, including the Palmyra Whig poem reported by S7, and record issue/page/column locators rather than relying on the 1924 quotation.
+3. Retrieve the Van Buren County court record concerning the bee-tree fine and the arrest/charging record for Uriah S. Gregory; identify the exact court, date, offence and disposition.
+4. Inspect the 1837 Brown survey, Albert Lea’s 1838/1839 map and the 1820 Missouri constitution/federal act together; record what each line actually claims and how the 2,600-square-mile estimate is derived.
+5. Read the complete 1849 Supreme Court scan and the 1851 commissioner report; preserve the distinction between legal holding and physical marking.
+6. Add the relevant Osage, Ioway, Sauk and Meskwaki treaty/land-history sources before the episode uses “ownership,” “empty land,” “settlers” or “prize.”
+
+## Documentary visual-source opportunities — research leads only
+
+- S1: 1839 proclamations and the congressional cover page; public-domain federal record, pending scan/rights and legibility review.
+- S2: 1838/1839 boundary map and survey report; inspect image-level labels and provenance before use.
+- S3: SHSMO finding-aid leads for letters, deeds and proclamations; request originals or reproductions through the repository.
+- S10/S11: Supreme Court scans and boundary-marker descriptions; legal-resolution contrast with the “war” nickname.
+- S7: historical article pages and its reported Palmyra Whig poem; do not reproduce copyrighted scans without a human rights decision.
+- No visual asset is approved for production by this research pack.
