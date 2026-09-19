@@ -1,0 +1,62 @@
+---
+title: Damascus Titan II — Source Index
+topic: 18–19 September 1980 Titan II accident at Launch Complex 374-7 near Damascus, Arkansas
+status: Research pack; human verification required
+accessed: 2026-09-16
+---
+
+## Research question
+
+How did a routine maintenance task lead to the loss of a fueled Titan II missile and a major emergency, and what can the surviving public record establish about the warhead, casualties, response decisions and wider safety problem?
+
+## Working answer and scope
+
+The located record supports a narrow sequence: during maintenance at Titan II Launch Complex 374-7 on the evening of 18 September 1980, a dropped socket struck and ruptured the missile’s first-stage fuel tank. Fuel vapours accumulated inside the silo. After personnel and nearby residents were evacuated, the vapours ignited shortly before or around 3 a.m. on 19 September, destroying the missile and complex, killing Senior Airman David Livingston and injuring 21 other Air Force personnel. A nuclear warhead’s re-entry vehicle was ejected and recovered essentially intact; the NNSA/DOE summaries report no radioactive contamination.
+
+The public record does not justify saying a nuclear detonation was imminent, that the warhead was about to activate, or that a single decision or person determined the outcome. It also does not settle every detail of the ignition mechanism, the exact socket dimensions, or whether the aging missile system was a causal factor. Those questions remain explicitly attributed and open.
+
+This is a source pack, not a script, title/thumbnail package, visual brief or production approval.
+
+## Source-quality key
+
+- **A — primary or official record:** Congressional Record, government accident summary or official agency record.
+- **A/S — primary record accessed through an institutional reproduction:** official or contemporary record hosted by an archive or document reproducer; inspect the scan and release metadata.
+- **B — contemporaneous reputable reporting:** period journalism reporting official briefings and statements; useful for chronology, not a substitute for the record.
+- **C — institutional historical synthesis:** Arkansas or university history pages built from records and interviews; useful for context and cross-checking.
+- **D — documentary or later secondary source:** interview-based reconstruction or later analysis; attribute its claims and do not silently upgrade it to primary evidence.
+
+## Indexed sources
+
+| ID | Source and URL | Date / type | Quality | Traceable passage or locator | Use and limitation |
+|---|---|---|---|---|---|
+| S1 | [NNSA Post 1980 Broken Arrow Nuclear Weapons Accident Issues](https://www.governmentattic.org/40docs/NNSApost1980BrokenArrow_2021.pdf) | 2021 FOIA release/reproduction containing a nuclear weapon accident summary | A/S | PDF section headed “NAME: #32 - Titan II ICBM Missile, Damascus, Arkansas”; description states complex 374-7 was about four miles north of Damascus, the 740-ton door was blown off, the re-entry vehicle was ejected and the warhead was essentially intact; chronology states socket impact, 24-minute detection delay, sprinklers, evacuation, 2:13 a.m. team entry and 2:50 a.m. ignition. | Best located official retrospective summary for the accident sequence and response. It is hosted by Governmentattic rather than an official NNSA web domain; verify the scan, release context and exact page. |
+| S2 | [DOE Historical Records Declassification Guide](https://www.governmentattic.org/39docs/DOEhistRecsDeclassGuide_2012.pdf) | 2012 DOE guide, Appendix B-7 | A/S | Entry “September 19, 1980/Titan II/CBM/Damascus, Arkansas” describes a dropped heavy socket, pressurised fuel leak, evacuation, ignition about eight and a half hours later, one fatality, 21 injured and intact warhead recovery with no radioactive contamination. | Independent official summary that corroborates the core sequence. It labels the event by 19 September and compresses the overnight chronology. |
+| S3 | [Congressional Record — House, 19 September 1980](https://www.govinfo.gov/content/pkg/GPO-CRECB-1980-pt20/pdf/GPO-CRECB-1980-pt20-3-2.pdf) | Contemporary House remarks, pp. 26334–26335 | A | Glickman says Congress had required an Air Force safety study of old liquid-fuel missiles and questions whether its reassuring result was a “whitewash”; Bethune calls for on-site investigation and says the Senate had just acted on warning devices. | Strong evidence for immediate congressional reaction and pre-existing safety concern. These are members’ statements, not findings of an investigation; the House scan should be checked. |
+| S4 | [Congressional Record — Senate, 16 September 1980](https://www.govinfo.gov/content/pkg/GPO-CRECB-1980-pt19/pdf/GPO-CRECB-1980-pt19-6-1.pdf) | Contemporary Senate debate, pp. 25469–25470 | A | Pryor and Bumpers discuss earlier 1978 Titan propellant incidents, nine later incidents, a mandated Air Force safety study and a civilian warning-siren amendment; Dole describes 54 Titan IIs established in 1963 with a ten-year life expectancy. | Establishes pre-accident political and safety context. Statements and figures need comparison with the underlying 1980 study and full debate. |
+| S5 | [Congressional Record — Senate, 22 September 1980](https://www.govinfo.gov/content/pkg/GPO-CRECB-1980-pt20/pdf/GPO-CRECB-1980-pt20-4-2.pdf) | Contemporary Senate report of Air Force briefing, p. 26623 | A/B | Reproduces the Air Force account that vapours were first indicated at 6:47 p.m.; the missile crew reported hazard indicators about an hour later; later two-man entry found vapor meters at maximum; Livingston died after the explosion and Kennedy was injured. | Important contemporaneous chronology. The page reports information attributed to an Air Force report and unnamed sources; it is not the full accident report. |
+| S6 | [Titan II Missile Explosion, Encyclopedia of Arkansas](https://encyclopediaofarkansas.net/entries/titan-ii-missile-explosion-2543/) | Institutional historical synthesis, updated 30 May 2025 | C | Lines 9–19: site and date; 6:30 p.m. maintenance, socket and first-stage fuel leak, evacuation, 3 a.m. explosion, 740-ton door, warhead recovery, one death, 21 injured, cleanup and congressional recommendations. | Useful institutional cross-check and site context. It cites later works and contains public comments that are not evidence; do not use comments as factual sources. |
+| S7 | [Titan II — Zero Hour, University of Arkansas at Little Rock](https://ualrexhibits.org/zerohour/titan-ii/) | University digital exhibit, published December 2020 | C | Lines 44–61: Titan II age/context, maintenance at about 6:30 p.m., leak, personnel and civilian evacuation, entry by Livingston and Kennedy, explosion just before 3 a.m., 21 injuries, warhead recovery and 1981 end-of-program announcement. | Strong accessible institutional chronology and map/site context. It includes counterfactual language about what might have happened if the warhead detonated; that speculation is not used as fact here. |
+| S8 | [Titan II Launch Complex 374-7 Site, Arkansas Heritage](https://www.arkansasheritage.com/docs/default-source/national-registry/vb0050-pdf.pdf?sfvrsn=f49fa43f_0) | National Register nomination, 2010 reproduction | A/S | Search extract describes the 374-7 site, the earlier 1978 leak, the 740-ton door, W-53 recovery and the boards’ conclusion that human error caused the near-disaster. | Official state historical record and visual/site lead. Its extracted 1980 date appears inconsistent with the other sources; do not use its date without inspecting the PDF page image. |
+| S9 | [Command and Control — PBS American Experience transcript](https://www.pbs.org/wgbh/americanexperience/films/command-and-control/) | 2017 documentary transcript based on interviews and declassified material | D | Lines 388–395: Plumb and Powell describe the dropped socket; lines 418–448: 6:35 p.m. alarm, leak, evacuation and command response; lines 647–651: later general reflections on accidental nuclear safety. | Useful first-person and documentary reconstruction. The transcript is copyrighted and edited; quote sparingly and verify interview provenance against the film or records. |
+| S10 | [Titan II — University of Virginia Dengrove Collection write-up](https://archives.law.virginia.edu/dengrove/writeup/titan-ii) | Institutional collection write-up | C | Summary gives 6:30 p.m. start, 9 p.m. personnel evacuation, civilian evacuation an hour later, early-morning entry, 740-ton door, warhead about 100 feet from the entrance and no radioactive material lost. | Independent institutional cross-check. It is a collection description, not the underlying accident record. |
+| S11 | [Titan II Blast: A Long String Of Mistakes, Washington Post](https://www.washingtonpost.com/archive/politics/1980/09/25/titan-ii-blast-a-long-string-of-mistakes/fa4541ca-05d1-48f7-8cee-7ec0a5e592e2/) | 25 September 1980 contemporary report of Air Force Secretary Hans Mark’s briefing | B | Reports conflicting advice from the Air Force hazard team and Martin Marietta, a decision to wait, a 740-ton cover, water-spray and exhaust-fan issues, socket dimensions as reported by Mark, and his statement that the technical experts did not expect an explosion. | Valuable contemporaneous account of the public explanation. It is a newspaper report of a hearing, not a transcript; preserve attribution and seek the hearing record. |
+| S12 | [Command and Control source notes](https://www.chbeck.de/media/2825/inh_schlossercommandandcontrol_978-3-406-65595-1_1a_anmerkungen.pdf) | Eric Schlosser’s 2013 research notes | D | Notes identify the December 1980 Eighth Air Force Missile Investigation Board report, its 18–19 September scope, three-volume format and archival copies at Wichita State, the Titan Missile Museum and Jacksonville Museum of Military History. | Important lead for locating the primary mishap board report. It is not itself the report and should not be used to establish contested technical details. |
+| S13 | [1981 Congressional Record — House](https://www.govinfo.gov/content/pkg/GPO-CRECB-1981-pt16/pdf/GPO-CRECB-1981-pt16-1-2.pdf) | 15 September 1981 anniversary remarks | A | Bethune describes the destroyed Damascus facility, one dead airman, injured personnel, the year of review and improved Air Force/community relations; he calls for review of Titan maintenance and safety. | Evidence of post-accident political response and continuing review. Member remarks are not a final program evaluation. |
+
+All URLs were accessed or rechecked on **2026-09-16**. Line references above refer to the accessible web text; PDF locators identify page numbers or section headings where available. Human verification must inspect the original scans, redactions, release metadata and full hearing/board records.
+
+## Visual and archival opportunities
+
+- Public-domain or government-record scans: Congressional Record pages, NNSA/DOE accident-summary page, National Register site plan and historic photographs, subject to rights and scan verification.
+- Map: Launch Complex 374-7 in Van Buren County relative to Damascus, Little Rock AFB and nearby roads; use an archival or openly licensed base map and label modern geography separately from 1980 conditions.
+- Diagram: non-operational explanatory cutaway showing the silo, work platforms, fuel tank, evacuation boundary and re-entry vehicle path. Derive dimensions only from verified public sources; do not reproduce sensitive operating procedures.
+- Timeline graphic: 18 September evening through 19 September morning, with disputed times marked as ranges rather than a false minute-by-minute certainty.
+- Avoid reusing PBS footage, newspaper images, photographs or maps until the rights holder and licence are recorded.
+
+## Source-handling rules
+
+1. Anchor the core sequence in S1–S5 and cross-check with S6–S10.
+2. Use S11 for the reported public explanation of conflicting advice, not as proof of the complete decision record.
+3. Use S12 to locate the primary mishap board report; do not treat a later book note as a substitute for it.
+4. Keep the event date as an overnight window: maintenance and leak on 18 September, explosion and fatality on 19 September.
+5. Prefer “dropped socket,” “fuel leak,” “fuel-vapour explosion,” “one dead” and “21 injured” over disputed weights, exact distances, unverified ignition sources or counterfactual casualty estimates.
