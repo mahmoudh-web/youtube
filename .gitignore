@@ -7,3 +7,30 @@
 
 # Deleted files moved to Obsidian's local trash
 .trash/
+
+# Local agent/runtime metadata
+/.claude/
+/.multica/
+/AGENTS.md
+/CLAUDE.md
+
+# Unrelated uncommitted episode work
+/03 Channels/Weird History/Episodes/anglo-zanzibar-war-1896/CONTEXT.md
+/03 Channels/Weird History/Episodes/anglo-zanzibar-war-1896/Research/05 Uncertainty and Human Verification.md
+/03 Channels/Weird History/Episodes/battle-of-los-angeles-1942/CONTEXT.md
+/03 Channels/Weird History/Episodes/boston-molasses-flood-1919/
+/03 Channels/Weird History/Episodes/football-war-1969/
+/03 Channels/Weird History/Episodes/great-moon-hoax-1835/Research/07 Independent Validation.md
+/03 Channels/Weird History/Episodes/honey-war-1839/
+/03 Channels/Weird History/Episodes/lake-nyos-1986/
+/03 Channels/Weird History/Episodes/lobster-war-1963/
+/03 Channels/Weird History/Episodes/operation-big-buzz-1955/
+/03 Channels/Weird History/Episodes/operation-cat-drop-1960/
+/03 Channels/Weird History/Episodes/operation-paul-bunyan-1976/
+/03 Channels/Weird History/Episodes/operation-sea-spray-1950/
+/03 Channels/Weird History/Episodes/operation-vegetarian-1942/
+/03 Channels/Weird History/Episodes/petrich-1925/
+/03 Channels/Weird History/Episodes/tunguska-1908/
+/03 Channels/Weird History/Episodes/washington-radar-wave-1952/
+/Episodes/lituya-bay-1958/
+/Episodes/strasbourg-dancing-1518/
