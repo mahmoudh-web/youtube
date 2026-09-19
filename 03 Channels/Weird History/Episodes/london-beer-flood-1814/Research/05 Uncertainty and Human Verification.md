@@ -51,6 +51,6 @@ This is an evidence pack, not a script. Stop at this handoff until a human edito
 - [ ] Hannah Banfield's mother's fate resolved or explicitly qualified.
 - [ ] Wake grouping and ninth-death tradition separated from the inquest record.
 - [ ] Legal meaning of the verdict reviewed.
-- [ ] Human editor confirms every material claim in [Claim Ledger](03%20Claim%20Ledger.md) has an approved source label and caveat.
+- [ ] Human editor confirms every material claim in [Claim Ledger](03%20Channels/Weird%20History/Episodes/london-beer-flood-1814/Research/03%20Claim%20Ledger.md) has an approved source label and caveat.
 
 Until the checklist is complete, this pack is **not narration-ready** and must not advance to scriptwriting, visual generation, editing, QC, or publication.

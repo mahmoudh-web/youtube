@@ -9,12 +9,12 @@ validated: 2026-09-15
 
 I read the complete research pack and the episode context file:
 
-- [[01 Source Index]]
-- [[02 Timeline]]
-- [[03 Claim Ledger]] (C01–C20)
-- [[04 Counterevidence]]
-- [[05 Uncertainty and Human Verification]]
-- [[06 Conclusion]]
+- [[03 Channels/Weird History/Episodes/pastry-war-1838/Research/01 Source Index]]
+- [[03 Channels/Weird History/Episodes/pastry-war-1838/Research/02 Timeline]]
+- [[03 Channels/Weird History/Episodes/pastry-war-1838/Research/03 Claim Ledger]] (C01–C20)
+- [[03 Channels/Weird History/Episodes/pastry-war-1838/Research/04 Counterevidence]]
+- [[03 Channels/Weird History/Episodes/pastry-war-1838/Research/05 Uncertainty and Human Verification]]
+- [[03 Channels/Weird History/Episodes/pastry-war-1838/Research/06 Conclusion]]
 - [[../CONTEXT]]
 
 I independently checked the cited web records available from the source index on 2026-09-15. The principal checks were the Mexican treaty/convention reproduction (S2), the Secretaría de Relaciones Exteriores diplomatic history (S3), the Library of Congress catalogue for the 1838 Mexican pamphlet (S4), the El Colegio de México catalogue (S5), the two peer-reviewed SciELO articles (S6–S7), the INAH article and PDF (S8), the Persée article (S9), and the AGN summary (S1). Direct access to S1, S4, S6, S7 and the S8 landing page was intermittently blocked or timed out; indexed text, PDFs, catalogues and search-result extracts were used where available. These access limits are recorded below and do not count catalogue metadata as proof of the underlying claim.

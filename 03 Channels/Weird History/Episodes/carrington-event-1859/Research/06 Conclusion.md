@@ -48,8 +48,8 @@ This paragraph is an interpretation of the indexed evidence, not a quotation fro
 
 ## Research stop
 
-Human verification is required before any material claim advances. Follow [[05 Uncertainty and Human Verification]] for the exact checklist: inspect the primary scans and Kew plates; verify the telegraph source chain and newspaper wording; reconcile time conventions; distinguish observed records from modern CME and infrastructure models; and approve the bounded modern counterfactual.
+Human verification is required before any material claim advances. Follow [[03 Channels/Weird History/Episodes/carrington-event-1859/Research/05 Uncertainty and Human Verification]] for the exact checklist: inspect the primary scans and Kew plates; verify the telegraph source chain and newspaper wording; reconcile time conventions; distinguish observed records from modern CME and infrastructure models; and approve the bounded modern counterfactual.
 
 This folder is **not narration-ready**. It contains research documents only and no script, title, thumbnail, visual plan or production asset.
 
-Linked notes: [[01 Source Index]] · [[02 Timeline]] · [[03 Claim Ledger]] · [[04 Counterevidence]] · [[05 Uncertainty and Human Verification]]
+Linked notes: [[03 Channels/Weird History/Episodes/carrington-event-1859/Research/01 Source Index]] · [[03 Channels/Weird History/Episodes/carrington-event-1859/Research/02 Timeline]] · [[03 Channels/Weird History/Episodes/carrington-event-1859/Research/03 Claim Ledger]] · [[03 Channels/Weird History/Episodes/carrington-event-1859/Research/04 Counterevidence]] · [[03 Channels/Weird History/Episodes/carrington-event-1859/Research/05 Uncertainty and Human Verification]]

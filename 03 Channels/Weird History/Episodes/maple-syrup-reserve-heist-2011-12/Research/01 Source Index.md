@@ -15,11 +15,11 @@ The strongest court record supports a sustained extraction scheme rather than a 
 
 Linked pack:
 
-- [[02 Timeline]]
-- [[03 Claim Ledger]]
-- [[04 Counterevidence]]
+- [[03 Channels/Weird History/Episodes/maple-syrup-reserve-heist-2011-12/Research/02 Timeline]]
+- [[03 Channels/Weird History/Episodes/maple-syrup-reserve-heist-2011-12/Research/03 Claim Ledger]]
+- [[03 Channels/Weird History/Episodes/maple-syrup-reserve-heist-2011-12/Research/04 Counterevidence]]
 - [[05 Uncertainty and Legal Sensitivity]]
-- [[06 Conclusion]]
+- [[03 Channels/Weird History/Episodes/maple-syrup-reserve-heist-2011-12/Research/06 Conclusion]]
 
 ## Source-quality key
 

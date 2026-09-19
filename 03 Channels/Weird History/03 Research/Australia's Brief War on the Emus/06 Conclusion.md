@@ -26,8 +26,8 @@ Until that gate is passed, the pack is not script-ready.
 
 ## Linked research notes
 
-- [Source Index](01%20Source%20Index.md)
-- [Timeline](02%20Timeline.md)
-- [Claim Ledger](03%20Claim%20Ledger.md)
-- [Counterevidence](04%20Counterevidence.md)
-- [Uncertainty and Human Verification](05%20Uncertainty%20and%20Human%20Verification.md)
+- [Source Index](03%20Channels/Weird%20History/03%20Research/Australia's%20Brief%20War%20on%20the%20Emus/01%20Source%20Index.md)
+- [Timeline](03%20Channels/Weird%20History/03%20Research/Australia's%20Brief%20War%20on%20the%20Emus/02%20Timeline.md)
+- [Claim Ledger](03%20Channels/Weird%20History/03%20Research/Australia's%20Brief%20War%20on%20the%20Emus/03%20Claim%20Ledger.md)
+- [Counterevidence](03%20Channels/Weird%20History/03%20Research/Australia's%20Brief%20War%20on%20the%20Emus/04%20Counterevidence.md)
+- [Uncertainty and Human Verification](03%20Channels/Weird%20History/03%20Research/Australia's%20Brief%20War%20on%20the%20Emus/05%20Uncertainty%20and%20Human%20Verification.md)

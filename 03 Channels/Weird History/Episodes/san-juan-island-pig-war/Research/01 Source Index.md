@@ -15,11 +15,11 @@ The working hypothesis is that the pig was a trigger, not the underlying cause. 
 
 Linked pack:
 
-- [[02 Timeline]]
-- [[03 Claim Ledger]]
-- [[04 Counterevidence]]
+- [[03 Channels/Weird History/Episodes/san-juan-island-pig-war/Research/02 Timeline]]
+- [[03 Channels/Weird History/Episodes/san-juan-island-pig-war/Research/03 Claim Ledger]]
+- [[03 Channels/Weird History/Episodes/san-juan-island-pig-war/Research/04 Counterevidence]]
 - [[05 Uncertainty and Legal Sensitivity]]
-- [[06 Conclusion]]
+- [[03 Channels/Weird History/Episodes/san-juan-island-pig-war/Research/06 Conclusion]]
 
 ## Source-quality key
 

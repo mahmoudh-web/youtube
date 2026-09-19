@@ -7,7 +7,7 @@ accessed: 2026-09-13
 
 ## Linked notes
 
-[[01 Source Index]] · [[02 Timeline]] · [[03 Claim Ledger]] · [[04 Counterevidence]] · [[05 Uncertainty and Legal Sensitivity]]
+[[03 Channels/Weird History/Episodes/san-juan-island-pig-war/Research/01 Source Index]] · [[03 Channels/Weird History/Episodes/san-juan-island-pig-war/Research/02 Timeline]] · [[03 Channels/Weird History/Episodes/san-juan-island-pig-war/Research/03 Claim Ledger]] · [[03 Channels/Weird History/Episodes/san-juan-island-pig-war/Research/04 Counterevidence]] · [[05 Uncertainty and Legal Sensitivity]]
 
 ## Evidence-backed conclusion
 
@@ -21,7 +21,7 @@ The strongest answer to the episode question is therefore:
 
 > The pig was the spark, but the twelve-year crisis was a boundary-and-jurisdiction dispute made dangerous by imperial competition, settler expansion, local officials acting ahead of national policy, and governments unwilling to surrender a sovereignty claim without arbitration.
 
-This is an interpretation grounded in [[03 Claim Ledger#C01|C01]]–[[03 Claim Ledger#C18|C18]], not a line to present as a primary-source quotation.
+This is an interpretation grounded in [[03 Channels/Weird History/Episodes/san-juan-island-pig-war/Research/03 Claim Ledger#C01|C01]]–[[03 Channels/Weird History/Episodes/san-juan-island-pig-war/Research/03 Claim Ledger#C18|C18]], not a line to present as a primary-source quotation.
 
 ## What can be stated as fact
 

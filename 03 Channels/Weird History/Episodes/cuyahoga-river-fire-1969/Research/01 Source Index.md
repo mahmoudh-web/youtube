@@ -17,11 +17,11 @@ This pack corrects the episode brief’s June 29 date to **June 22, 1969**. A le
 
 Linked pack:
 
-- [[02 Timeline]]
-- [[03 Claim Ledger]]
-- [[04 Counterevidence]]
-- [[05 Uncertainty and Human Verification]]
-- [[06 Conclusion]]
+- [[03 Channels/Weird History/Episodes/cuyahoga-river-fire-1969/Research/02 Timeline]]
+- [[03 Channels/Weird History/Episodes/cuyahoga-river-fire-1969/Research/03 Claim Ledger]]
+- [[03 Channels/Weird History/Episodes/cuyahoga-river-fire-1969/Research/04 Counterevidence]]
+- [[03 Channels/Weird History/Episodes/cuyahoga-river-fire-1969/Research/05 Uncertainty and Human Verification]]
+- [[03 Channels/Weird History/Episodes/cuyahoga-river-fire-1969/Research/06 Conclusion]]
 
 ## Source-quality key
 

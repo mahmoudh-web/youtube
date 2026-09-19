@@ -35,12 +35,12 @@ This folder holds the source-led research pack for the episode hypothesis about 
 
 ## Integration Points
 
-- [[Research/01 Source Index]] — source register, locators, gaps, and timeline.
-- [[Research/02 Timeline]] — dated operational sequence.
-- [[Research/03 Claim Ledger]] — claim-by-claim evidence and safe wording.
-- [[Research/04 Counterevidence]] — disconfirming evidence and source-bias audit.
+- [[03 Channels/Weird History/Episodes/the-army-of-inflatable-tanks/Research/01 Source Index]] — source register, locators, gaps, and timeline.
+- [[03 Channels/Weird History/Episodes/the-army-of-inflatable-tanks/Research/02 Timeline]] — dated operational sequence.
+- [[03 Channels/Weird History/Episodes/the-army-of-inflatable-tanks/Research/03 Claim Ledger]] — claim-by-claim evidence and safe wording.
+- [[03 Channels/Weird History/Episodes/the-army-of-inflatable-tanks/Research/04 Counterevidence]] — disconfirming evidence and source-bias audit.
 - [[Research/05 Uncertainty and Legal Sensitivity]] — verification gates and legal/ethical controls.
-- [[Research/06 Conclusion]] — provisional research conclusion, not narration.
+- [[03 Channels/Weird History/Episodes/the-army-of-inflatable-tanks/Research/06 Conclusion]] — provisional research conclusion, not narration.
 - [[02 Shared Systems/Research/Claim Ledger]]
 - [[02 Shared Systems/Research/Case Database Schema]]
 

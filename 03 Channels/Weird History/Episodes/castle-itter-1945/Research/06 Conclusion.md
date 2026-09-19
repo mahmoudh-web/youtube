@@ -53,6 +53,6 @@ This interpretation is drawn from the juxtaposition of the U.S. unit report, Aus
 
 ## Research stop
 
-Human verification is required before any material claim advances. The exact next actions are listed in [[05 Uncertainty and Human Verification]]: read the 23rd Tank Battalion, 142nd Infantry and 103d Division reports; verify the Dachau/Itter roster and classification; reconcile times, units and casualties; check the Gangl death account and SS formation; and obtain specialist review of Wehrmacht responsibility and the prisoners’ political histories.
+Human verification is required before any material claim advances. The exact next actions are listed in [[03 Channels/Weird History/Episodes/castle-itter-1945/Research/05 Uncertainty and Human Verification]]: read the 23rd Tank Battalion, 142nd Infantry and 103d Division reports; verify the Dachau/Itter roster and classification; reconcile times, units and casualties; check the Gangl death account and SS formation; and obtain specialist review of Wehrmacht responsibility and the prisoners’ political histories.
 
 This folder is **not narration-ready**. It contains no script, title, thumbnail, visual plan or production asset.

@@ -49,6 +49,6 @@ This interpretation does not prove that Time misled readers deliberately, that C
 
 ## Research stop
 
-Human verification is required before any material claim advances. The exact next actions are listed in [[05 Uncertainty and Human Verification]]: inspect the 1969 newspaper scans and Time page; verify captions and rights; reconcile duration, damage and prior-fire counts; retrieve the strongest ignition and legislative records; and approve the final contributory wording for EPA/CWA influence.
+Human verification is required before any material claim advances. The exact next actions are listed in [[03 Channels/Weird History/Episodes/cuyahoga-river-fire-1969/Research/05 Uncertainty and Human Verification]]: inspect the 1969 newspaper scans and Time page; verify captions and rights; reconcile duration, damage and prior-fire counts; retrieve the strongest ignition and legislative records; and approve the final contributory wording for EPA/CWA influence.
 
 This folder is **not narration-ready**. It contains no script, title, thumbnail, visual brief, edit plan or production asset.

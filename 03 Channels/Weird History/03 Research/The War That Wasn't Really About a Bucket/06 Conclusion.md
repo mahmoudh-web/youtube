@@ -26,8 +26,8 @@ Until that gate is passed, the pack is not script-ready.
 
 ## Linked research notes
 
-- [Source Index](01%20Source%20Index.md)
-- [Timeline](02%20Timeline.md)
-- [Claim Ledger](03%20Claim%20Ledger.md)
-- [Counterevidence](04%20Counterevidence.md)
+- [Source Index](03%20Channels/Weird%20History/03%20Research/The%20War%20That%20Wasn't%20Really%20About%20a%20Bucket/01%20Source%20Index.md)
+- [Timeline](03%20Channels/Weird%20History/03%20Research/The%20War%20That%20Wasn't%20Really%20About%20a%20Bucket/02%20Timeline.md)
+- [Claim Ledger](03%20Channels/Weird%20History/03%20Research/The%20War%20That%20Wasn't%20Really%20About%20a%20Bucket/03%20Claim%20Ledger.md)
+- [Counterevidence](03%20Channels/Weird%20History/03%20Research/The%20War%20That%20Wasn't%20Really%20About%20a%20Bucket/04%20Counterevidence.md)
 - [Uncertainty and Legal Sensitivity](05%20Uncertainty%20and%20Legal%20Sensitivity.md)

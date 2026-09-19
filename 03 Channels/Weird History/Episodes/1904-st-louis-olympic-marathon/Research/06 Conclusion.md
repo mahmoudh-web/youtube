@@ -22,14 +22,14 @@ The story becomes less certain at the edges. Starter counts vary between 29, 31 
 
 ## Editorial boundary
 
-This is a source-led research conclusion only. It contains no script, narration, title/thumbnail recommendation or production instruction. The next gate is human verification of the original newspaper scans, 1904 rules and protest record, Sullivan papers, period route map, weather record, starter count, water points, medical wording, Lorz sanction and culturally sensitive terminology in [Uncertainty and Human Verification](05%20Uncertainty%20and%20Human%20Verification.md).
+This is a source-led research conclusion only. It contains no script, narration, title/thumbnail recommendation or production instruction. The next gate is human verification of the original newspaper scans, 1904 rules and protest record, Sullivan papers, period route map, weather record, starter count, water points, medical wording, Lorz sanction and culturally sensitive terminology in [Uncertainty and Human Verification](03%20Channels/Weird%20History/Episodes/1904-st-louis-olympic-marathon/Research/05%20Uncertainty%20and%20Human%20Verification.md).
 
 The episode can responsibly promise a documented collision between endurance sport and poor experimental thinking, but it should not promise that every famous anecdote is true or that one person deliberately engineered a formal human experiment. Until the handoff checklist is complete, the pack is not script-ready.
 
 ## Linked research notes
 
-- [Source Index](01%20Source%20Index.md)
-- [Timeline](02%20Timeline.md)
-- [Claim Ledger](03%20Claim%20Ledger.md)
-- [Counterevidence](04%20Counterevidence.md)
-- [Uncertainty and Human Verification](05%20Uncertainty%20and%20Human%20Verification.md)
+- [Source Index](03%20Channels/Weird%20History/Episodes/1904-st-louis-olympic-marathon/Research/01%20Source%20Index.md)
+- [Timeline](03%20Channels/Weird%20History/Episodes/1904-st-louis-olympic-marathon/Research/02%20Timeline.md)
+- [Claim Ledger](03%20Channels/Weird%20History/Episodes/1904-st-louis-olympic-marathon/Research/03%20Claim%20Ledger.md)
+- [Counterevidence](03%20Channels/Weird%20History/Episodes/1904-st-louis-olympic-marathon/Research/04%20Counterevidence.md)
+- [Uncertainty and Human Verification](03%20Channels/Weird%20History/Episodes/1904-st-louis-olympic-marathon/Research/05%20Uncertainty%20and%20Human%20Verification.md)

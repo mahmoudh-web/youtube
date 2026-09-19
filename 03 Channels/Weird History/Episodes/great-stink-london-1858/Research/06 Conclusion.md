@@ -28,14 +28,14 @@ This pack contains no allegation about a living person. It does contain historic
 
 ## Editorial boundary
 
-This is a source-led research conclusion only. It contains no script, narration, title/thumbnail recommendation, visual treatment, or production instruction. The next gate is human verification of the original newspaper and MBW scans, statutory wording, engineering chronology, commission-count discrepancy, outfall language, and medical-history claims in [Uncertainty and Human Verification](05%20Uncertainty%20and%20Human%20Verification.md).
+This is a source-led research conclusion only. It contains no script, narration, title/thumbnail recommendation, visual treatment, or production instruction. The next gate is human verification of the original newspaper and MBW scans, statutory wording, engineering chronology, commission-count discrepancy, outfall language, and medical-history claims in [Uncertainty and Human Verification](03%20Channels/Weird%20History/Episodes/great-stink-london-1858/Research/05%20Uncertainty%20and%20Human%20Verification.md).
 
 Until that gate is passed, the pack is not script-ready.
 
 ## Linked research notes
 
-- [Source Index](01%20Source%20Index.md)
-- [Timeline](02%20Timeline.md)
-- [Claim Ledger](03%20Claim%20Ledger.md)
-- [Counterevidence](04%20Counterevidence.md)
-- [Uncertainty and Human Verification](05%20Uncertainty%20and%20Human%20Verification.md)
+- [Source Index](03%20Channels/Weird%20History/Episodes/great-stink-london-1858/Research/01%20Source%20Index.md)
+- [Timeline](03%20Channels/Weird%20History/Episodes/great-stink-london-1858/Research/02%20Timeline.md)
+- [Claim Ledger](03%20Channels/Weird%20History/Episodes/great-stink-london-1858/Research/03%20Claim%20Ledger.md)
+- [Counterevidence](03%20Channels/Weird%20History/Episodes/great-stink-london-1858/Research/04%20Counterevidence.md)
+- [Uncertainty and Human Verification](03%20Channels/Weird%20History/Episodes/great-stink-london-1858/Research/05%20Uncertainty%20and%20Human%20Verification.md)

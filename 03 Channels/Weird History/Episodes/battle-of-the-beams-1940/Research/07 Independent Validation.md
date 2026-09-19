@@ -9,12 +9,12 @@ validated: 2026-09-15
 
 I independently read the episode `CONTEXT.md` and the complete research pack:
 
-- [[01 Source Index]]
-- [[02 Timeline]]
-- [[03 Claim Ledger]]
-- [[04 Counterevidence]]
+- [[03 Channels/Weird History/Episodes/battle-of-the-beams-1940/Research/01 Source Index]]
+- [[03 Channels/Weird History/Episodes/battle-of-the-beams-1940/Research/02 Timeline]]
+- [[03 Channels/Weird History/Episodes/battle-of-the-beams-1940/Research/03 Claim Ledger]]
+- [[03 Channels/Weird History/Episodes/battle-of-the-beams-1940/Research/04 Counterevidence]]
 - [[05 Uncertainty and Legal Sensitivity]]
-- [[06 Conclusion]]
+- [[03 Channels/Weird History/Episodes/battle-of-the-beams-1940/Research/06 Conclusion]]
 
 I checked every material claim in C01–C20 against the cited source or source chain. I opened the RAF Museum chronology, the NSA historical PDF, the RAF Historical Society paper, the two reproduced wartime official-history chapters, the National Archives Cold Water transcript/search result, the RAF operations guides and the IBCC collection record. I also independently searched the National Archives catalogue result for HW 2/47 and cross-checked the identity of Frederick Lindemann. Validation access date for all URLs below: **2026-09-15**.
 

@@ -64,6 +64,6 @@ This is an evidence pack, not a script. Stop here until a human editor or histor
 - [ ] Lorz's sanction, motive and exact ride length verified separately.
 - [ ] Carvajal food/nap story, dog detour and barefoot claim either sourced or removed.
 - [ ] Racist period language contextualised and removed from neutral narration.
-- [ ] Human editor confirms every material claim in [Claim Ledger](03%20Claim%20Ledger.md) has an approved source label and caveat.
+- [ ] Human editor confirms every material claim in [Claim Ledger](03%20Channels/Weird%20History/Episodes/1904-st-louis-olympic-marathon/Research/03%20Claim%20Ledger.md) has an approved source label and caveat.
 
 Until this checklist is complete, the pack is **not narration-ready** and must not advance to scriptwriting, visual generation, editing, QC or publication.

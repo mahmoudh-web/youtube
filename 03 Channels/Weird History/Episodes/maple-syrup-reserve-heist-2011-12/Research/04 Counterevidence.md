@@ -7,7 +7,7 @@ accessed: 2026-09-14
 
 ## Linked notes
 
-[[01 Source Index]] · [[02 Timeline]] · [[03 Claim Ledger]] · [[05 Uncertainty and Legal Sensitivity]] · [[06 Conclusion]]
+[[03 Channels/Weird History/Episodes/maple-syrup-reserve-heist-2011-12/Research/01 Source Index]] · [[03 Channels/Weird History/Episodes/maple-syrup-reserve-heist-2011-12/Research/02 Timeline]] · [[03 Channels/Weird History/Episodes/maple-syrup-reserve-heist-2011-12/Research/03 Claim Ledger]] · [[05 Uncertainty and Legal Sensitivity]] · [[03 Channels/Weird History/Episodes/maple-syrup-reserve-heist-2011-12/Research/06 Conclusion]]
 
 ## Conflicts and reconciliation rules
 

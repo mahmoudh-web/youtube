@@ -7,7 +7,7 @@ accessed: 2026-09-15
 
 ## Linked notes
 
-[[01 Source Index]] · [[02 Timeline]] · [[04 Counterevidence]] · [[05 Uncertainty and Legal Sensitivity]] · [[06 Conclusion]]
+[[03 Channels/Weird History/Episodes/exploding-whale-1970/Research/01 Source Index]] · [[03 Channels/Weird History/Episodes/exploding-whale-1970/Research/02 Timeline]] · [[03 Channels/Weird History/Episodes/exploding-whale-1970/Research/04 Counterevidence]] · [[05 Uncertainty and Legal Sensitivity]] · [[03 Channels/Weird History/Episodes/exploding-whale-1970/Research/06 Conclusion]]
 
 ## Ledger
 

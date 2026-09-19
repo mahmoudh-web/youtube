@@ -9,12 +9,12 @@ validated: 2026-09-15
 
 I independently read the complete six-document research pack:
 
-- [[01 Source Index]]
-- [[02 Timeline]]
-- [[03 Claim Ledger]]
-- [[04 Counterevidence]]
-- [[05 Uncertainty and Human Verification]]
-- [[06 Conclusion]]
+- [[03 Channels/Weird History/Episodes/castle-itter-1945/Research/01 Source Index]]
+- [[03 Channels/Weird History/Episodes/castle-itter-1945/Research/02 Timeline]]
+- [[03 Channels/Weird History/Episodes/castle-itter-1945/Research/03 Claim Ledger]]
+- [[03 Channels/Weird History/Episodes/castle-itter-1945/Research/04 Counterevidence]]
+- [[03 Channels/Weird History/Episodes/castle-itter-1945/Research/05 Uncertainty and Human Verification]]
+- [[03 Channels/Weird History/Episodes/castle-itter-1945/Research/06 Conclusion]]
 
 I opened the cited web pages, archival object page, official institutional pages and accessible PDF material listed below. I checked names, dates, locations, ranks, numbers, chronology, quotations or paraphrases, causal language, source quality, counterevidence and the distinction between a source's observation and later interpretation. Validation was performed on 2026-09-15. A source being listed here does not make it primary, independent or sufficient for narration.
 

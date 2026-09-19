@@ -7,7 +7,7 @@ accessed: 2026-09-14
 
 ## Linked notes
 
-[[01 Source Index]] · [[03 Claim Ledger]] · [[04 Counterevidence]] · [[05 Uncertainty and Legal Sensitivity]] · [[06 Conclusion]]
+[[03 Channels/Weird History/Episodes/battle-of-the-beams-1940/Research/01 Source Index]] · [[03 Channels/Weird History/Episodes/battle-of-the-beams-1940/Research/03 Claim Ledger]] · [[03 Channels/Weird History/Episodes/battle-of-the-beams-1940/Research/04 Counterevidence]] · [[05 Uncertainty and Legal Sensitivity]] · [[03 Channels/Weird History/Episodes/battle-of-the-beams-1940/Research/06 Conclusion]]
 
 ## Chronology
 

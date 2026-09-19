@@ -9,12 +9,12 @@ validated: 2026-09-15
 
 I independently read and audited the completed research pack:
 
-- [[01 Source Index]]
-- [[02 Timeline]]
-- [[03 Claim Ledger]] (C01–C18)
-- [[04 Counterevidence]]
-- [[05 Uncertainty and Human Verification]]
-- [[06 Conclusion]]
+- [[03 Channels/Weird History/Episodes/operation-mincemeat-1943/Research/01 Source Index]]
+- [[03 Channels/Weird History/Episodes/operation-mincemeat-1943/Research/02 Timeline]]
+- [[03 Channels/Weird History/Episodes/operation-mincemeat-1943/Research/03 Claim Ledger]] (C01–C18)
+- [[03 Channels/Weird History/Episodes/operation-mincemeat-1943/Research/04 Counterevidence]]
+- [[03 Channels/Weird History/Episodes/operation-mincemeat-1943/Research/05 Uncertainty and Human Verification]]
+- [[03 Channels/Weird History/Episodes/operation-mincemeat-1943/Research/06 Conclusion]]
 
 The researcher files were not edited. This validation checked the cited public-domain transcription of Ewen Montagu’s *The Man Who Never Was* (chapters 3, 9, 11, 12 and 13, plus the author’s note), the accessible *Military Medicine* article, Denis Smyth’s specialist monograph, the UK Parliament records on Operation Mincemeat and HMS *Dasher*, the German Historical Museum’s Sicily account, the Canadian official-report record, the U.S. Naval History and Heritage Command summary, and the IWM search-indexed text. Access date for this validation: **2026-09-15**.
 
@@ -123,7 +123,7 @@ Before any human approval of narration-ready claims:
 5. Check the exact 27 April identity record, the 1945 internal summary and the CWGC inscription directly. Weigh them against Gottlieb’s forensic counterargument and the *Dasher* research rather than treating commemoration as proof.
 6. Check German operational orders and independent campaign histories before describing a Panzer move, minefield, R-boat transfer or Sicilian defensive gap as caused by Mincemeat.
 7. Replace any numerical lives-saved, force-diversion or war-effect claim with the pack’s current non-quantified wording unless a transparent historical method and primary evidence are added.
-8. Keep all visual, rights, dignity and legal/ethical safeguards in [[05 Uncertainty and Human Verification]]. No corpse image, grave image or forged-paper reproduction is cleared by this validation.
+8. Keep all visual, rights, dignity and legal/ethical safeguards in [[03 Channels/Weird History/Episodes/operation-mincemeat-1943/Research/05 Uncertainty and Human Verification]]. No corpse image, grave image or forged-paper reproduction is cleared by this validation.
 
 ## Human-verification safety boundary
 

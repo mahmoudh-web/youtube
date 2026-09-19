@@ -55,6 +55,6 @@ This is a source-led evidence pack, not a script. Stop at this handoff until a h
 - [ ] Engineering review completed for outfall, tide, pumping, deodorization, and “purification” language.
 - [ ] Medical-history review completed for miasma, Snow, cholera, and any mortality claims.
 - [ ] “18 days” phrasing checked so it refers only to parliamentary passage, not design or construction.
-- [ ] Every material claim in [Claim Ledger](03%20Claim%20Ledger.md) has an approved source label, confidence, and caveat.
+- [ ] Every material claim in [Claim Ledger](03%20Channels/Weird%20History/Episodes/great-stink-london-1858/Research/03%20Claim%20Ledger.md) has an approved source label, confidence, and caveat.
 
 Until this checklist is complete, the pack is **not narration-ready** and must not advance to scriptwriting, visual generation, editing, QC, or publication.

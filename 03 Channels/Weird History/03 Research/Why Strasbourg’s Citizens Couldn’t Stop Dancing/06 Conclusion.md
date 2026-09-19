@@ -21,12 +21,12 @@ The cause remains open. Strasbourg physicians in 1518 described a natural illnes
 
 ## Editorial boundary
 
-This note is a research conclusion only. It contains no script, narration, title/thumbnail recommendation or visual-production plan. The next gate is human verification of the archival originals, translations and disputed claims in [Uncertainty and Human Verification](05%20Uncertainty%20and%20Human%20Verification.md).
+This note is a research conclusion only. It contains no script, narration, title/thumbnail recommendation or visual-production plan. The next gate is human verification of the archival originals, translations and disputed claims in [Uncertainty and Human Verification](03%20Channels/Weird%20History/03%20Research/Why%20Strasbourg’s%20Citizens%20Couldn’t%20Stop%20Dancing/05%20Uncertainty%20and%20Human%20Verification.md).
 
 ## Linked research notes
 
-- [Source Index](01%20Source%20Index.md)
-- [Timeline](02%20Timeline.md)
-- [Claim Ledger](03%20Claim%20Ledger.md)
-- [Counterevidence](04%20Counterevidence.md)
-- [Uncertainty and Human Verification](05%20Uncertainty%20and%20Human%20Verification.md)
+- [Source Index](03%20Channels/Weird%20History/03%20Research/Why%20Strasbourg’s%20Citizens%20Couldn’t%20Stop%20Dancing/01%20Source%20Index.md)
+- [Timeline](03%20Channels/Weird%20History/03%20Research/Why%20Strasbourg’s%20Citizens%20Couldn’t%20Stop%20Dancing/02%20Timeline.md)
+- [Claim Ledger](03%20Channels/Weird%20History/03%20Research/Why%20Strasbourg’s%20Citizens%20Couldn’t%20Stop%20Dancing/03%20Claim%20Ledger.md)
+- [Counterevidence](03%20Channels/Weird%20History/03%20Research/Why%20Strasbourg’s%20Citizens%20Couldn’t%20Stop%20Dancing/04%20Counterevidence.md)
+- [Uncertainty and Human Verification](03%20Channels/Weird%20History/03%20Research/Why%20Strasbourg’s%20Citizens%20Couldn’t%20Stop%20Dancing/05%20Uncertainty%20and%20Human%20Verification.md)

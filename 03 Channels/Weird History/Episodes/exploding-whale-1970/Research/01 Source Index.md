@@ -17,11 +17,11 @@ The event is documented through contemporary reporting and surviving KATU film. 
 
 Linked pack:
 
-- [[02 Timeline]]
-- [[03 Claim Ledger]]
-- [[04 Counterevidence]]
+- [[03 Channels/Weird History/Episodes/exploding-whale-1970/Research/02 Timeline]]
+- [[03 Channels/Weird History/Episodes/exploding-whale-1970/Research/03 Claim Ledger]]
+- [[03 Channels/Weird History/Episodes/exploding-whale-1970/Research/04 Counterevidence]]
 - [[05 Uncertainty and Legal Sensitivity]]
-- [[06 Conclusion]]
+- [[03 Channels/Weird History/Episodes/exploding-whale-1970/Research/06 Conclusion]]
 
 ## Source-quality key
 

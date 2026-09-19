@@ -9,12 +9,12 @@ validated: 2026-09-15
 
 I read the complete research pack before checking the evidence:
 
-- [01 Source Index](01%20Source%20Index.md)
-- [02 Timeline](02%20Timeline.md)
-- [03 Claim Ledger](03%20Claim%20Ledger.md)
-- [04 Counterevidence](04%20Counterevidence.md)
-- [05 Uncertainty and Human Verification](05%20Uncertainty%20and%20Human%20Verification.md)
-- [06 Conclusion](06%20Conclusion.md)
+- [01 Source Index](03%20Channels/Weird%20History/03%20Research/Australia's%20Brief%20War%20on%20the%20Emus/01%20Source%20Index.md)
+- [02 Timeline](03%20Channels/Weird%20History/03%20Research/Australia's%20Brief%20War%20on%20the%20Emus/02%20Timeline.md)
+- [03 Claim Ledger](03%20Channels/Weird%20History/03%20Research/Australia's%20Brief%20War%20on%20the%20Emus/03%20Claim%20Ledger.md)
+- [04 Counterevidence](03%20Channels/Weird%20History/03%20Research/Australia's%20Brief%20War%20on%20the%20Emus/04%20Counterevidence.md)
+- [05 Uncertainty and Human Verification](03%20Channels/Weird%20History/03%20Research/Australia's%20Brief%20War%20on%20the%20Emus/05%20Uncertainty%20and%20Human%20Verification.md)
+- [06 Conclusion](03%20Channels/Weird%20History/03%20Research/Australia's%20Brief%20War%20on%20the%20Emus/06%20Conclusion.md)
 
 I independently checked the accessible National Archives summary, the two cited 1932 House of Representatives Hansard transcriptions, an additional 22 November 1932 House answer, Trove-indexed newspaper pages, the Australian War Memorial research guides, and the cited Animal Studies Journal article. Access dates for external sources below are 2026-09-15.
 

@@ -7,7 +7,7 @@ accessed: 2026-09-14
 
 ## Scope and stop condition
 
-This note is the research stop for the *War of the Worlds* pack. It is not a script, title, thumbnail, visual treatment, legal opinion or production asset. No material claim should advance to narration or packaging until a human editor reads the primary broadcast, FCC, newspaper and correspondence records, verifies the locators and records the final support in [[03 Claim Ledger]].
+This note is the research stop for the *War of the Worlds* pack. It is not a script, title, thumbnail, visual treatment, legal opinion or production asset. No material claim should advance to narration or packaging until a human editor reads the primary broadcast, FCC, newspaper and correspondence records, verifies the locators and records the final support in [[03 Channels/Weird History/Episodes/war-of-the-worlds-panic-1938/Research/03 Claim Ledger]].
 
 ## Claim-risk triage
 

@@ -9,12 +9,12 @@ validated: 2026-09-15
 
 I independently read and checked the completed pack files:
 
-- [[01 Source Index]]
-- [[02 Timeline]]
-- [[03 Claim Ledger]]
-- [[04 Counterevidence]]
+- [[03 Channels/Weird History/Episodes/cane-toad-decision-1935/Research/01 Source Index]]
+- [[03 Channels/Weird History/Episodes/cane-toad-decision-1935/Research/02 Timeline]]
+- [[03 Channels/Weird History/Episodes/cane-toad-decision-1935/Research/03 Claim Ledger]]
+- [[03 Channels/Weird History/Episodes/cane-toad-decision-1935/Research/04 Counterevidence]]
 - [[05 Uncertainty and Legal Sensitivity]]
-- [[06 Conclusion]]
+- [[03 Channels/Weird History/Episodes/cane-toad-decision-1935/Research/06 Conclusion]]
 
 I also read the episode `CONTEXT.md` to check that the validation preserved its evidence boundaries and stop gate. Every claim row C1–C20 in the claim ledger was checked against the cited source or source chain. I independently opened the State Library of Queensland article, the National Museum of Australia page, the Queensland Government fact sheet, the DCCEEW page, the Australian Dictionary of Biography entries for Bell and Mungomery, the Queensland historical source, the official Queensland history PDF, PubMed's record for Shine, the accessible record for Letnic et al., the 1935 and 1936 Queensland Agricultural Journal search extracts, and the 1941 Queensland Agricultural Journal search extract.
 

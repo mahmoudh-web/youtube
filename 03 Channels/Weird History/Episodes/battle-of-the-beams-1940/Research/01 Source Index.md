@@ -17,11 +17,11 @@ The pack focuses on 1940 and the Coventry test case, with 1941 follow-through in
 
 Linked pack:
 
-- [[02 Timeline]]
-- [[03 Claim Ledger]]
-- [[04 Counterevidence]]
+- [[03 Channels/Weird History/Episodes/battle-of-the-beams-1940/Research/02 Timeline]]
+- [[03 Channels/Weird History/Episodes/battle-of-the-beams-1940/Research/03 Claim Ledger]]
+- [[03 Channels/Weird History/Episodes/battle-of-the-beams-1940/Research/04 Counterevidence]]
 - [[05 Uncertainty and Legal Sensitivity]]
-- [[06 Conclusion]]
+- [[03 Channels/Weird History/Episodes/battle-of-the-beams-1940/Research/06 Conclusion]]
 
 ## Source-quality key
 

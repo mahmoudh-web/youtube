@@ -26,4 +26,4 @@ The sequence moves from local protection and tactical misdirection toward a larg
 - Reconcile Brest dates, force counts, and the 709th losses against the original VIII Corps and 23rd reports.
 - Confirm the Bettembourg eight-day period and the precise German G-2 language in the 3rd Cavalry AAR.
 - Inspect the Viersen overlay and underlying German reports rather than relying on a reproduced caption.
-- Do not convert the timeline into a script until the source gaps in [[01 Source Index]] are closed or explicitly accepted by the human editor.
+- Do not convert the timeline into a script until the source gaps in [[03 Channels/Weird History/Episodes/the-army-of-inflatable-tanks/Research/01 Source Index]] are closed or explicitly accepted by the human editor.

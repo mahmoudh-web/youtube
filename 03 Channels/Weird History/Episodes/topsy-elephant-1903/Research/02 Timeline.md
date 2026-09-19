@@ -7,7 +7,7 @@ accessed: 2026-09-14
 
 ## Linked notes
 
-[[01 Source Index]] · [[03 Claim Ledger]] · [[04 Counterevidence]] · [[05 Uncertainty and Legal Sensitivity]] · [[06 Conclusion]]
+[[03 Channels/Weird History/Episodes/topsy-elephant-1903/Research/01 Source Index]] · [[03 Channels/Weird History/Episodes/topsy-elephant-1903/Research/03 Claim Ledger]] · [[03 Channels/Weird History/Episodes/topsy-elephant-1903/Research/04 Counterevidence]] · [[05 Uncertainty and Legal Sensitivity]] · [[03 Channels/Weird History/Episodes/topsy-elephant-1903/Research/06 Conclusion]]
 
 ## Chronology
 
@@ -28,7 +28,7 @@ accessed: 2026-09-14
 | Jan–Feb 1903 | Edison Papers’ review says Edison/Gilmore correspondence chiefly concerns phonograph-speaker patents and contains no Topsy reference or instruction to make the film. | Archival negative finding | S6. Confirm the correspondence search scope and editorial methodology with the Edison Papers before presenting as exhaustive. |
 | 1903–1912 | Early films were deposited as paper prints for copyright because motion pictures lacked explicit copyright protection; the Topsy film survived in the Library of Congress collection. | Film-preservation context | S9–S11. Rights for a particular restoration/scan and any soundtrack remain separate questions. |
 | 2014 | Brooklyn Public Library published a research essay asking whether Edison was present/responsible and distinguishing him from the local Edison plant. | Reception/correction milestone | S5. Useful modern synthesis, not a primary source. |
-| 2017–2026 | Institutional and popular treatments continued to disagree: Edison Papers calls the AC-war link erroneous; popular articles and videos often repeat it. | Myth/reception history | S6, S13 and the popular retellings logged in [[04 Counterevidence]]. |
+| 2017–2026 | Institutional and popular treatments continued to disagree: Edison Papers calls the AC-war link erroneous; popular articles and videos often repeat it. | Myth/reception history | S6, S13 and the popular retellings logged in [[03 Channels/Weird History/Episodes/topsy-elephant-1903/Research/04 Counterevidence]]. |
 | 14 Sep 2026 | Research stop: primary source pack assembled; direct ASPCA page-level record, original newspaper scans, complete copyright scan and Edison correspondence audit remain human-verification tasks. | Research status | [[05 Uncertainty and Legal Sensitivity]]. |
 
 ## Decision-chain reconstruction

@@ -46,14 +46,14 @@ The human cost should remain visible. The operation used the body of a socially 
 
 ## Research stop
 
-Human verification is required before any downstream work. The exact actions are listed in [[05 Uncertainty and Human Verification]]: inspect WO 106/5921, ADM 223/794 and CAB 154; verify the German and Spanish record chain; reconcile the identity evidence and HMS *Dasher* alternative; confirm campaign causation wording; and approve a respectful, rights-cleared visual treatment.
+Human verification is required before any downstream work. The exact actions are listed in [[03 Channels/Weird History/Episodes/operation-mincemeat-1943/Research/05 Uncertainty and Human Verification]]: inspect WO 106/5921, ADM 223/794 and CAB 154; verify the German and Spanish record chain; reconcile the identity evidence and HMS *Dasher* alternative; confirm campaign causation wording; and approve a respectful, rights-cleared visual treatment.
 
 This folder is **not narration-ready**. It contains no script, title, thumbnail, visual-generation brief, edit plan or publication asset.
 
 ## Linked research notes
 
-- [[01 Source Index]]
-- [[02 Timeline]]
-- [[03 Claim Ledger]]
-- [[04 Counterevidence]]
-- [[05 Uncertainty and Human Verification]]
+- [[03 Channels/Weird History/Episodes/operation-mincemeat-1943/Research/01 Source Index]]
+- [[03 Channels/Weird History/Episodes/operation-mincemeat-1943/Research/02 Timeline]]
+- [[03 Channels/Weird History/Episodes/operation-mincemeat-1943/Research/03 Claim Ledger]]
+- [[03 Channels/Weird History/Episodes/operation-mincemeat-1943/Research/04 Counterevidence]]
+- [[03 Channels/Weird History/Episodes/operation-mincemeat-1943/Research/05 Uncertainty and Human Verification]]

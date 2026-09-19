@@ -25,4 +25,4 @@ Human review must decide whether the primary record supports foregrounding the R
 
 ## Source trail
 
-The full claim ledger is in [[03 Claim Ledger]], with source IDs, locators and caveats. The primary-record spine is [[01 Source Index]] sources S2 and S4, with S1 and S3 as official Mexican archival/diplomatic controls. Counterevidence is in [[04 Counterevidence]] and unresolved items are in [[05 Uncertainty and Human Verification]].
+The full claim ledger is in [[03 Channels/Weird History/Episodes/pastry-war-1838/Research/03 Claim Ledger]], with source IDs, locators and caveats. The primary-record spine is [[03 Channels/Weird History/Episodes/pastry-war-1838/Research/01 Source Index]] sources S2 and S4, with S1 and S3 as official Mexican archival/diplomatic controls. Counterevidence is in [[03 Channels/Weird History/Episodes/pastry-war-1838/Research/04 Counterevidence]] and unresolved items are in [[03 Channels/Weird History/Episodes/pastry-war-1838/Research/05 Uncertainty and Human Verification]].

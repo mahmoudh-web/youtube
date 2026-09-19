@@ -22,14 +22,14 @@ The volume and mechanics are less settled than the core event. The failed vat's 
 
 ## Editorial boundary
 
-This is a source-led research conclusion only. It contains no script, narration, title/thumbnail recommendation, visual treatment, or production instruction. The next gate is human verification of the original newspaper scans, any surviving coroner record, the period street map, quantity conversions, technical language, victim details, and legal interpretation in [Uncertainty and Human Verification](05%20Uncertainty%20and%20Human%20Verification.md).
+This is a source-led research conclusion only. It contains no script, narration, title/thumbnail recommendation, visual treatment, or production instruction. The next gate is human verification of the original newspaper scans, any surviving coroner record, the period street map, quantity conversions, technical language, victim details, and legal interpretation in [Uncertainty and Human Verification](03%20Channels/Weird%20History/Episodes/london-beer-flood-1814/Research/05%20Uncertainty%20and%20Human%20Verification.md).
 
 Until that gate is passed, the pack is not script-ready.
 
 ## Linked research notes
 
-- [Source Index](01%20Source%20Index.md)
-- [Timeline](02%20Timeline.md)
-- [Claim Ledger](03%20Claim%20Ledger.md)
-- [Counterevidence](04%20Counterevidence.md)
-- [Uncertainty and Human Verification](05%20Uncertainty%20and%20Human%20Verification.md)
+- [Source Index](03%20Channels/Weird%20History/Episodes/london-beer-flood-1814/Research/01%20Source%20Index.md)
+- [Timeline](03%20Channels/Weird%20History/Episodes/london-beer-flood-1814/Research/02%20Timeline.md)
+- [Claim Ledger](03%20Channels/Weird%20History/Episodes/london-beer-flood-1814/Research/03%20Claim%20Ledger.md)
+- [Counterevidence](03%20Channels/Weird%20History/Episodes/london-beer-flood-1814/Research/04%20Counterevidence.md)
+- [Uncertainty and Human Verification](03%20Channels/Weird%20History/Episodes/london-beer-flood-1814/Research/05%20Uncertainty%20and%20Human%20Verification.md)

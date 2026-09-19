@@ -9,12 +9,12 @@ validated: 2026-09-15
 
 I independently read and audited:
 
-- [[01 Source Index]]
-- [[02 Timeline]]
-- [[03 Claim Ledger]]
-- [[04 Counterevidence]]
+- [[03 Channels/Weird History/Episodes/great-hedge-of-india/Research/01 Source Index]]
+- [[03 Channels/Weird History/Episodes/great-hedge-of-india/Research/02 Timeline]]
+- [[03 Channels/Weird History/Episodes/great-hedge-of-india/Research/03 Claim Ledger]]
+- [[03 Channels/Weird History/Episodes/great-hedge-of-india/Research/04 Counterevidence]]
 - [[05 Uncertainty and Legal Sensitivity]]
-- [[06 Conclusion]]
+- [[03 Channels/Weird History/Episodes/great-hedge-of-india/Research/06 Conclusion]]
 
 The validation checked the cited contemporary Imperial Customs report, the QDL Batten manuscript record and folios, the 1843 and 1875 statutory texts where accessible, the Imperial Gazetteer, Hansard debates, the 1882 Strachey financial history, the British Library catalogue, the Moxham bibliographic record, the Avery Review essay and O'Carroll's project page. Access date for this validation: **2026-09-15**.
 

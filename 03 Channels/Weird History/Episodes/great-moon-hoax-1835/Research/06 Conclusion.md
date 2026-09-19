@@ -45,6 +45,6 @@ This interpretation is drawn from the serial text, LOC and Clements Library cont
 
 ## Research stop
 
-Human verification is required before any material claim advances. The exact next actions are listed in [[05 Uncertainty and Human Verification]]: inspect original *Sun* issues and the 16 September editorial; compare them with the 1859 reprint; verify the source-journal history, Locke attribution and intention; check Yale, missionary and circulation anecdotes; read Herschel’s correspondence and real Cape records; and review the visual-object provenance.
+Human verification is required before any material claim advances. The exact next actions are listed in [[03 Channels/Weird History/Episodes/great-moon-hoax-1835/Research/05 Uncertainty and Human Verification]]: inspect original *Sun* issues and the 16 September editorial; compare them with the 1859 reprint; verify the source-journal history, Locke attribution and intention; check Yale, missionary and circulation anecdotes; read Herschel’s correspondence and real Cape records; and review the visual-object provenance.
 
 This folder is **not narration-ready**. It contains no script, title, thumbnail, visual plan or production asset.

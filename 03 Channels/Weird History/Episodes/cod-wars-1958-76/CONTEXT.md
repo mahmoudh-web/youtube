@@ -32,12 +32,12 @@ The pack treats “Cod Wars” as a political and media label for three linked c
 
 ## Integration points
 
-- [Source Index](Research/01%20Source%20Index.md)
-- [Timeline](Research/02%20Timeline.md)
-- [Claim Ledger](Research/03%20Claim%20Ledger.md)
-- [Counterevidence](Research/04%20Counterevidence.md)
-- [Uncertainty and Human Verification](Research/05%20Uncertainty%20and%20Human%20Verification.md)
-- [Conclusion](Research/06%20Conclusion.md)
+- [Source Index](03%20Channels/Weird%20History/Episodes/cod-wars-1958-76/Research/01%20Source%20Index.md)
+- [Timeline](03%20Channels/Weird%20History/Episodes/cod-wars-1958-76/Research/02%20Timeline.md)
+- [Claim Ledger](03%20Channels/Weird%20History/Episodes/cod-wars-1958-76/Research/03%20Claim%20Ledger.md)
+- [Counterevidence](03%20Channels/Weird%20History/Episodes/cod-wars-1958-76/Research/04%20Counterevidence.md)
+- [Uncertainty and Human Verification](03%20Channels/Weird%20History/Episodes/cod-wars-1958-76/Research/05%20Uncertainty%20and%20Human%20Verification.md)
+- [Conclusion](03%20Channels/Weird%20History/Episodes/cod-wars-1958-76/Research/06%20Conclusion.md)
 - Shared [Claim Ledger guidance](../../../../02%20Shared%20Systems/Research/Claim%20Ledger.md)
 - Shared [Case Database Schema](../../../../02%20Shared%20Systems/Research/Case%20Database%20Schema.md)
 

@@ -21,7 +21,7 @@ This is a research formulation, not an approved script. Verify the ASPCA interve
 
 ## Human handoff
 
-- Verify the primary record and update [[03 Claim Ledger]] before scriptwriting.
+- Verify the primary record and update [[03 Channels/Weird History/Episodes/topsy-elephant-1903/Research/03 Claim Ledger]] before scriptwriting.
 - Resolve the ASPCA/SPCA naming and locate direct 1903 records or mark the gap explicitly.
 - Select a non-graphic visual plan first; if footage is necessary, run the safeguards in [[05 Uncertainty and Legal Sensitivity]].
 - Keep human verification explicit at the research, fact-checking, rights, platform-QC and publication gates.

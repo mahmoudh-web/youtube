@@ -9,12 +9,12 @@ validated: 2026-09-15
 
 I independently read and checked the completed pack files:
 
-- [[01 Source Index]]
-- [[02 Timeline]]
-- [[03 Claim Ledger]]
-- [[04 Counterevidence]]
-- [[05 Uncertainty and Human Verification]]
-- [[06 Conclusion]]
+- [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/01 Source Index]]
+- [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/02 Timeline]]
+- [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/03 Claim Ledger]]
+- [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/04 Counterevidence]]
+- [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/05 Uncertainty and Human Verification]]
+- [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/06 Conclusion]]
 
 Every claim row C01–C26 in the claim ledger was checked against the cited source or source chain. I opened the PubMed record for the 1963 article, the accessible full reproduction of that article, Hempelmann’s 2007 scholarly reassessment, Pringle’s 2015 article in the Cambridge repository, the Springer record for Pringle’s 2019 chapter, the U.S. Office of the Historian page, the cited Hansard record, the CDC comparison report and the Radiolab source. The Central African Journal landing page and the Sage record for Kagwa were inaccessible to the web verifier (403/internal fetch failure), so those records were not treated as independently inspected full text.
 
@@ -133,4 +133,4 @@ The uncertainty file correctly flags the major risks. Human verification must st
 
 **Approved for narration or production: NO.** No script, narration, title, thumbnail, visual concept, audio treatment, edit, upload metadata or publication work is authorized by this validation. The human editor remains the final verifier and approval gate.
 
-Linked notes: [[01 Source Index]] · [[02 Timeline]] · [[03 Claim Ledger]] · [[04 Counterevidence]] · [[05 Uncertainty and Human Verification]] · [[06 Conclusion]]
+Linked notes: [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/01 Source Index]] · [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/02 Timeline]] · [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/03 Claim Ledger]] · [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/04 Counterevidence]] · [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/05 Uncertainty and Human Verification]] · [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/06 Conclusion]]

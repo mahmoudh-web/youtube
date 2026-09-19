@@ -7,7 +7,7 @@ accessed: 2026-09-13
 
 ## Linked notes
 
-[[01 Source Index]] · [[02 Timeline]] · [[03 Claim Ledger]] · [[04 Counterevidence]] · [[06 Conclusion]]
+[[03 Channels/Weird History/Episodes/san-juan-island-pig-war/Research/01 Source Index]] · [[03 Channels/Weird History/Episodes/san-juan-island-pig-war/Research/02 Timeline]] · [[03 Channels/Weird History/Episodes/san-juan-island-pig-war/Research/03 Claim Ledger]] · [[03 Channels/Weird History/Episodes/san-juan-island-pig-war/Research/04 Counterevidence]] · [[03 Channels/Weird History/Episodes/san-juan-island-pig-war/Research/06 Conclusion]]
 
 ## Uncertainty register
 

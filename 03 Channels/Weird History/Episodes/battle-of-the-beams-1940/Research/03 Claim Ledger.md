@@ -7,7 +7,7 @@ accessed: 2026-09-14
 
 ## Linked notes
 
-[[01 Source Index]] · [[02 Timeline]] · [[04 Counterevidence]] · [[05 Uncertainty and Legal Sensitivity]] · [[06 Conclusion]]
+[[03 Channels/Weird History/Episodes/battle-of-the-beams-1940/Research/01 Source Index]] · [[03 Channels/Weird History/Episodes/battle-of-the-beams-1940/Research/02 Timeline]] · [[03 Channels/Weird History/Episodes/battle-of-the-beams-1940/Research/04 Counterevidence]] · [[05 Uncertainty and Legal Sensitivity]] · [[03 Channels/Weird History/Episodes/battle-of-the-beams-1940/Research/06 Conclusion]]
 
 Each row contains one material claim. Confidence describes the safest currently supportable wording, not certainty that every underlying wartime file has been inspected. “Source reports” is used where a later synthesis or catalogue lead stands in for a primary record. Every row remains subject to human verification.
 

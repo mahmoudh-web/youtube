@@ -43,6 +43,6 @@ This is a provisional editorial proposition, not approved narration. A human edi
 
 ## Research handoff
 
-This pack stops at research. Before a script is commissioned, the human editor must complete [[05 Uncertainty and Human Verification]], inspect the primary journal scan, recover the later-course source chain, review terminology with Tanzania/Haya expertise and approve a non-sensational framing. No visual, title, thumbnail, narration, audio or publication asset is approved by this note.
+This pack stops at research. Before a script is commissioned, the human editor must complete [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/05 Uncertainty and Human Verification]], inspect the primary journal scan, recover the later-course source chain, review terminology with Tanzania/Haya expertise and approve a non-sensational framing. No visual, title, thumbnail, narration, audio or publication asset is approved by this note.
 
-Linked notes: [[01 Source Index]] · [[02 Timeline]] · [[03 Claim Ledger]] · [[04 Counterevidence]] · [[05 Uncertainty and Human Verification]]
+Linked notes: [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/01 Source Index]] · [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/02 Timeline]] · [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/03 Claim Ledger]] · [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/04 Counterevidence]] · [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/05 Uncertainty and Human Verification]]

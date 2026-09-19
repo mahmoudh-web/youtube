@@ -9,12 +9,12 @@ validated: 2026-09-15
 
 I independently read and audited the complete research pack:
 
-- [[01 Source Index]]
-- [[02 Timeline]]
-- [[03 Claim Ledger]]
-- [[04 Counterevidence]]
+- [[03 Channels/Weird History/Episodes/san-juan-island-pig-war/Research/01 Source Index]]
+- [[03 Channels/Weird History/Episodes/san-juan-island-pig-war/Research/02 Timeline]]
+- [[03 Channels/Weird History/Episodes/san-juan-island-pig-war/Research/03 Claim Ledger]]
+- [[03 Channels/Weird History/Episodes/san-juan-island-pig-war/Research/04 Counterevidence]]
 - [[05 Uncertainty and Legal Sensitivity]]
-- [[06 Conclusion]]
+- [[03 Channels/Weird History/Episodes/san-juan-island-pig-war/Research/06 Conclusion]]
 
 I checked the cited treaty text, official diplomatic compilation, Senate Executive Document No. 10, NPS administrative history, NPS Historic Resource Study, NPS public-history pages, the digitised James Douglas dispatch, the Washington Territory memorial, the NPS environmental-history material, the NPS bibliography, and the Library of Congress newspaper scan. I did not edit any researcher file.
 

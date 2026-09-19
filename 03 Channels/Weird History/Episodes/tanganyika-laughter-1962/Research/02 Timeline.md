@@ -32,4 +32,4 @@ accessed: 2026-09-14
 
 The primary report gives a clear sequence through the second Kashasha closure and early spread, but it does not by itself establish a final regional case total, 14-school count, 18-month or 2.5-year duration, or a definitive end date. Those figures circulate through later summaries and should remain in the uncertainty register until their source chain is recovered.
 
-Linked notes: [[01 Source Index]] · [[03 Claim Ledger]] · [[04 Counterevidence]] · [[05 Uncertainty and Human Verification]] · [[06 Conclusion]]
+Linked notes: [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/01 Source Index]] · [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/03 Claim Ledger]] · [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/04 Counterevidence]] · [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/05 Uncertainty and Human Verification]] · [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/06 Conclusion]]

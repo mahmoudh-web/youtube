@@ -45,4 +45,4 @@ accessed: 2026-09-14
 6. Read the National Academies report and Lloyd’s/AER model sections on assumptions, transformer damage and outage duration; record that the outputs are conditional.
 7. Compare NOAA/NWS language about possible modern impacts with the actual historical evidence; remove any sentence that silently crosses from observed to inferred.
 
-Linked notes: [[01 Source Index]] · [[02 Timeline]] · [[03 Claim Ledger]] · [[05 Uncertainty and Human Verification]] · [[06 Conclusion]]
+Linked notes: [[03 Channels/Weird History/Episodes/carrington-event-1859/Research/01 Source Index]] · [[03 Channels/Weird History/Episodes/carrington-event-1859/Research/02 Timeline]] · [[03 Channels/Weird History/Episodes/carrington-event-1859/Research/03 Claim Ledger]] · [[03 Channels/Weird History/Episodes/carrington-event-1859/Research/05 Uncertainty and Human Verification]] · [[03 Channels/Weird History/Episodes/carrington-event-1859/Research/06 Conclusion]]

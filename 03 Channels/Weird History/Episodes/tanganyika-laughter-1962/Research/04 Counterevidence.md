@@ -60,4 +60,4 @@ The record is not a modern longitudinal clinical dataset. The 1963 work was limi
 - The local terms and community explanations are mediated through an English-language medical report. Translation, spelling, language variety and the investigators’ questions require specialist review.
 - Later scholarship can correct popular distortions, but it remains secondary interpretation and cannot restore missing first-person testimony.
 
-Linked notes: [[01 Source Index]] · [[02 Timeline]] · [[03 Claim Ledger]] · [[05 Uncertainty and Human Verification]] · [[06 Conclusion]]
+Linked notes: [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/01 Source Index]] · [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/02 Timeline]] · [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/03 Claim Ledger]] · [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/05 Uncertainty and Human Verification]] · [[03 Channels/Weird History/Episodes/tanganyika-laughter-1962/Research/06 Conclusion]]

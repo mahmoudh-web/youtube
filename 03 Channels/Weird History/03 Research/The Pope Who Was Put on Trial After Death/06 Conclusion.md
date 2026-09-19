@@ -27,8 +27,8 @@ Before any downstream work, require explicit human verification of the Latin pas
 
 ## Linked research notes
 
-- [Source Index](01%20Source%20Index.md)
-- [Timeline](02%20Timeline.md)
-- [Claim Ledger](03%20Claim%20Ledger.md)
-- [Counterevidence](04%20Counterevidence.md)
+- [Source Index](03%20Channels/Weird%20History/03%20Research/The%20Pope%20Who%20Was%20Put%20on%20Trial%20After%20Death/01%20Source%20Index.md)
+- [Timeline](03%20Channels/Weird%20History/03%20Research/The%20Pope%20Who%20Was%20Put%20on%20Trial%20After%20Death/02%20Timeline.md)
+- [Claim Ledger](03%20Channels/Weird%20History/03%20Research/The%20Pope%20Who%20Was%20Put%20on%20Trial%20After%20Death/03%20Claim%20Ledger.md)
+- [Counterevidence](03%20Channels/Weird%20History/03%20Research/The%20Pope%20Who%20Was%20Put%20on%20Trial%20After%20Death/04%20Counterevidence.md)
 - [Uncertainty and Legal Sensitivity](05%20Uncertainty%20and%20Legal%20Sensitivity.md)

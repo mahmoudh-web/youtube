@@ -47,4 +47,4 @@ This is a source-led research pack, not a script. No narration, title, thumbnail
 4. Reconcile Brant, Imlin, Duntzenheim, Rem and Specklin dates and numbers against the original language or a specialist edition.
 5. Decide whether any death wording is safe enough for narration; if not, omit deaths rather than infer them.
 6. Have a historian of early-modern medicine review the terms “ergotism,” “conversion,” “mass psychogenic illness,” “trance,” “chorea” and “Saint Vitus dance.”
-7. Keep the episode in research until every material claim in [Claim Ledger](03%20Claim%20Ledger.md) has a human-approved source label and caveat.
+7. Keep the episode in research until every material claim in [Claim Ledger](03%20Channels/Weird%20History/03%20Research/Why%20Strasbourg’s%20Citizens%20Couldn’t%20Stop%20Dancing/03%20Claim%20Ledger.md) has a human-approved source label and caveat.

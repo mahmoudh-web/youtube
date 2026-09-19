@@ -7,7 +7,7 @@ accessed: 2026-09-14
 
 ## Linked notes
 
-[[01 Source Index]] · [[03 Claim Ledger]] · [[04 Counterevidence]] · [[05 Uncertainty and Human Verification]] · [[06 Conclusion]]
+[[03 Channels/Weird History/Episodes/china-war-on-sparrows-1958-60/Research/01 Source Index]] · [[03 Channels/Weird History/Episodes/china-war-on-sparrows-1958-60/Research/03 Claim Ledger]] · [[03 Channels/Weird History/Episodes/china-war-on-sparrows-1958-60/Research/04 Counterevidence]] · [[03 Channels/Weird History/Episodes/china-war-on-sparrows-1958-60/Research/05 Uncertainty and Human Verification]] · [[03 Channels/Weird History/Episodes/china-war-on-sparrows-1958-60/Research/06 Conclusion]]
 
 ## Chronology
 

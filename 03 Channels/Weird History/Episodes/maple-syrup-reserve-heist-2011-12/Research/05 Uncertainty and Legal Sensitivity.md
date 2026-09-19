@@ -9,7 +9,7 @@ accessed: 2026-09-14
 
 This note is the mandatory legal-sensitivity and human-verification gate for the source pack. It is not a script, legal opinion, title, thumbnail, visual treatment or production asset.
 
-No material claim should advance to narration or packaging until a human editor checks the French judgments and the source passages, confirms the procedural status of every named person, and records any approved translation in [[03 Claim Ledger]]. The pack must remain in **Research**.
+No material claim should advance to narration or packaging until a human editor checks the French judgments and the source passages, confirms the procedural status of every named person, and records any approved translation in [[03 Channels/Weird History/Episodes/maple-syrup-reserve-heist-2011-12/Research/03 Claim Ledger]]. The pack must remain in **Research**.
 
 ## Risk register
 

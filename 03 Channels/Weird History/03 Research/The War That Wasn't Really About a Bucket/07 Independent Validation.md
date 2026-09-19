@@ -9,12 +9,12 @@ validated: 2026-09-15
 
 I read the complete research pack:
 
-- [01 Source Index](01%20Source%20Index.md)
-- [02 Timeline](02%20Timeline.md)
-- [03 Claim Ledger](03%20Claim%20Ledger.md)
-- [04 Counterevidence](04%20Counterevidence.md)
+- [01 Source Index](03%20Channels/Weird%20History/03%20Research/The%20War%20That%20Wasn't%20Really%20About%20a%20Bucket/01%20Source%20Index.md)
+- [02 Timeline](03%20Channels/Weird%20History/03%20Research/The%20War%20That%20Wasn't%20Really%20About%20a%20Bucket/02%20Timeline.md)
+- [03 Claim Ledger](03%20Channels/Weird%20History/03%20Research/The%20War%20That%20Wasn't%20Really%20About%20a%20Bucket/03%20Claim%20Ledger.md)
+- [04 Counterevidence](03%20Channels/Weird%20History/03%20Research/The%20War%20That%20Wasn't%20Really%20About%20a%20Bucket/04%20Counterevidence.md)
 - [05 Uncertainty and Legal Sensitivity](05%20Uncertainty%20and%20Legal%20Sensitivity.md)
-- [06 Conclusion](06%20Conclusion.md)
+- [06 Conclusion](03%20Channels/Weird%20History/03%20Research/The%20War%20That%20Wasn't%20Really%20About%20a%20Bucket/06%20Conclusion.md)
 
 I checked the cited web pages, PDFs, the digitised critical-edition text of Matteo Griffoni, and the additional 1908 reception record listed in the timeline. Access dates for external sources below are 2026-09-15.
 

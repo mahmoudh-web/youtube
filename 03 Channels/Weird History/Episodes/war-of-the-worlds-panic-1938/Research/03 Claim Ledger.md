@@ -7,7 +7,7 @@ accessed: 2026-09-14
 
 ## Linked notes
 
-[[01 Source Index]] · [[02 Timeline]] · [[04 Counterevidence]] · [[05 Uncertainty and Human Verification]] · [[06 Conclusion]]
+[[03 Channels/Weird History/Episodes/war-of-the-worlds-panic-1938/Research/01 Source Index]] · [[03 Channels/Weird History/Episodes/war-of-the-worlds-panic-1938/Research/02 Timeline]] · [[03 Channels/Weird History/Episodes/war-of-the-worlds-panic-1938/Research/04 Counterevidence]] · [[03 Channels/Weird History/Episodes/war-of-the-worlds-panic-1938/Research/05 Uncertainty and Human Verification]] · [[03 Channels/Weird History/Episodes/war-of-the-worlds-panic-1938/Research/06 Conclusion]]
 
 ## Ledger conventions
 

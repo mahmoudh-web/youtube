@@ -9,7 +9,7 @@ accessed: 2026-09-14
 
 This note is the authorized uncertainty and legal-sensitivity companion to the source-led research pack. It is not a script, legal opinion, title, thumbnail, visual treatment or production asset.
 
-No material claim should advance to narration or packaging until a human editor verifies the primary records, checks the historical language against regional context, and records final passages in [[03 Claim Ledger]]. Explicit human verification is required at the end of this research pass.
+No material claim should advance to narration or packaging until a human editor verifies the primary records, checks the historical language against regional context, and records final passages in [[03 Channels/Weird History/Episodes/great-hedge-of-india/Research/03 Claim Ledger]]. Explicit human verification is required at the end of this research pass.
 
 ## Historical legal and ethical risks
 

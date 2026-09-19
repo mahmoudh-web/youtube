@@ -64,4 +64,4 @@ This is an evidence pack, not a script or production brief. No narration, title,
 
 Stop here pending explicit human research verification. The pack is sufficient for fact-checking and editorial decisions, but it is not approval to write narration, produce creative assets, generate visuals, edit or publish.
 
-Linked notes: [[01 Source Index]] · [[02 Timeline]] · [[03 Claim Ledger]] · [[04 Counterevidence]] · [[06 Conclusion]]
+Linked notes: [[03 Channels/Weird History/Episodes/carrington-event-1859/Research/01 Source Index]] · [[03 Channels/Weird History/Episodes/carrington-event-1859/Research/02 Timeline]] · [[03 Channels/Weird History/Episodes/carrington-event-1859/Research/03 Claim Ledger]] · [[03 Channels/Weird History/Episodes/carrington-event-1859/Research/04 Counterevidence]] · [[03 Channels/Weird History/Episodes/carrington-event-1859/Research/06 Conclusion]]
